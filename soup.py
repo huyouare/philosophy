@@ -1,19 +1,29 @@
-html_doc = """
-<html><head><title>The Dormouse's story</title></head>
-<body>
-<p class="title"><b>The Dormouse's story</b></p>
-
-<p class="story">Once upon a time there were three little sisters; and their names were
-<a href="http://example.com/elsie" class="sister" id="link1">Elsie</a>,
-<a href="http://example.com/lacie" class="sister" id="link2">Lacie</a> and
-<a href="http://example.com/tillie" class="sister" id="link3">Tillie</a>;
-and they lived at the bottom of a well.</p>
-
-<p class="story">...</p>
-"""
-import urllib2
+import requests, re
 from bs4 import BeautifulSoup
 
-soup = BeautifulSoup(html_doc)
+# urlRandom = 'http://en.wikipedia.org/wiki/Special:Random'
+# urlRandom = 'http://en.wikipedia.org/wiki/Wikipedia'
+url = 'http://en.wikipedia.org/wiki/Aleksandr_Aksyonov'
+r = requests.get(url)
+soup = BeautifulSoup(r.text)
 
-print(soup.prettify())
+while soup.find(id="firstHeading").span.text != "Philosophy":
+  content = soup.find(id="mw-content-text")
+
+  paragraphText = str(content.p)
+  paragraphText = re.sub(r' \(.*?\) ', '', paragraphText)
+
+  paragraph = BeautifulSoup(paragraphText)
+  firstLink = paragraph.find(href = re.compile('/wiki/'))
+  if firstLink == None:
+    # Case of disambiguation or other page
+    firstLink = content.ul.find(href = re.compile('/wiki/'))
+    # Rather than find which page is of reference, we choose the 
+    # first link in the list text
+  print(paragraph.text)
+  print(firstLink)
+
+  url = firstLink.get('href')
+  r = requests.get(url)
+  soup = BeautifulSoup(r.text)
+
