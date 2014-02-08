@@ -7,8 +7,8 @@ url = 'http://en.wikipedia.org/wiki/Aleksandr_Aksyonov'
 r = requests.get(url)
 soup = BeautifulSoup(r.text)
 
-while soup.find(id="firstHeading").span.text != "Philosophy":
-  content = soup.find(id="mw-content-text")
+while soup.find(id='firstHeading').span.text != 'Philosophy':
+  content = soup.find(id='mw-content-text')
 
   paragraphText = str(content.p)
   paragraphText = re.sub(r' \(.*?\) ', '', paragraphText)
@@ -23,7 +23,7 @@ while soup.find(id="firstHeading").span.text != "Philosophy":
   print(paragraph.text)
   print(firstLink)
 
-  url = firstLink.get('href')
+  url = 'http://en.wikipedia.org' + firstLink.get('href')
   r = requests.get(url)
   soup = BeautifulSoup(r.text)
 
