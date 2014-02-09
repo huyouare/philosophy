@@ -13,3 +13,19 @@ Following the chain consists of:
 ### Notes
 * Currently defines main text as non-italicized, non-parenthesized text that does not appear inside a table.
 * Pages with tables alone will not lead to another page
+
+#### Getting Started
+Install dependencies:
+`pip install -r requirements.txt`
+
+Using the script:
+'python getting_to_philosophy.py STARTING_LINK'
+
+Example:
+`python getting_to_philosophy.py http://en.wikipedia.org/wiki/Property_(philosophy)`
+
+Output:
+`http://en.wikipedia.org/wiki/Property_(philosophy)
+http://en.wikipedia.org/wiki/Modern_philosophy
+http://en.wikipedia.org/wiki/Philosophy
+2 hops`
