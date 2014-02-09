@@ -1,29 +1,60 @@
 import requests, re
 from bs4 import BeautifulSoup
 
-# urlRandom = 'http://en.wikipedia.org/wiki/Special:Random'
-# urlRandom = 'http://en.wikipedia.org/wiki/Wikipedia'
-url = 'http://en.wikipedia.org/wiki/Aleksandr_Aksyonov'
+MAX_HOPS = 100
+count = 0
+urlRandom = 'http://en.wikipedia.org/wiki/Special:Random'
+#url = urlRandom
+url = 'http://en.wikipedia.org/wiki/Mauritius'
 r = requests.get(url)
 soup = BeautifulSoup(r.text)
+print(r.url)
 
 while soup.find(id='firstHeading').span.text != 'Philosophy':
+  if count==MAX_HOPS:
+    break
+
   content = soup.find(id='mw-content-text')
+  #contect = content.find(class_="dablink").replace_with('') # 'class' is reserved word
+  
+  # Case of disambiguation or other page
+  # firstLink = content.parent.ul.find(href = re.compile('/wiki/'))
+  
+  # Rather than find which page is of reference, we choose the 
+  # first link in the list text
+  paragraph = soup.select('div#mw-content-text > p')[0] # Only DIRECT child
+  print(paragraph)
+  for s in paragraph.find_all("span"):
+    s.replace_with("")
+  print(paragraph)
+  paragraphText = str(paragraph)
+  print(paragraphText)
+  paragraphText = re.sub(r' \(.*?\)', '', paragraphText)
+  #paragraphText = re.sub(r' \(.*?\)', '', paragraphText)
 
-  paragraphText = str(content.p)
-  paragraphText = re.sub(r' \(.*?\) ', '', paragraphText)
+  reParagraph = BeautifulSoup(paragraphText)
+  firstLink = reParagraph.find(href = re.compile('/wiki/'))
 
-  paragraph = BeautifulSoup(paragraphText)
-  firstLink = paragraph.find(href = re.compile('/wiki/'))
-  if firstLink == None:
-    # Case of disambiguation or other page
-    firstLink = content.ul.find(href = re.compile('/wiki/'))
-    # Rather than find which page is of reference, we choose the 
-    # first link in the list text
-  print(paragraph.text)
-  print(firstLink)
+
+
+  while firstLink == None:
+    if '(disambiguation)' in url:
+      firstLink = content.ul.find(href = re.compile('/wiki/'))
+      print(firstLink)
+
+    else:  
+      #print(firstLink)
+      paragraph = paragraph.find_next_sibling("p")
+      paragraphText = str(paragraph)
+      paragraphText = re.sub(r' \(.*?\) ', '', paragraphText)
+      reParagraph = BeautifulSoup(paragraphText)
+      firstLink = reParagraph.find(href = re.compile('/wiki/'))
 
   url = 'http://en.wikipedia.org' + firstLink.get('href')
+  print(url)
   r = requests.get(url)
   soup = BeautifulSoup(r.text)
 
+  count = count+1
+
+print(count)
