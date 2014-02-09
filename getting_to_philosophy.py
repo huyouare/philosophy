@@ -17,7 +17,7 @@ def find_philosophy(url):
       return None
 
     content = soup.find(id='mw-content-text')
-    for t in content.find_all(class_=['navbox', 'vertical-navbox']):
+    for t in content.find_all(class_=['navbox', 'vertical-navbox', 'toc']):
       t.replace_with("")
 
     paragraph = soup.select('div#mw-content-text > p')[0] # Only DIRECT child
@@ -27,7 +27,7 @@ def find_philosophy(url):
     paragraphText = re.sub(r' \(.*?\)', '', paragraphText) # Remove leftover parenthesized text
     
     # For debugging:
-    #print(paragraphText) 
+    print(paragraphText) 
 
     reParagraph = BeautifulSoup(paragraphText) # back into bs4 object to find links
     firstLink = reParagraph.find(href = re.compile('^/wiki/')) # links that start with /wiki/ only
@@ -41,6 +41,8 @@ def find_philosophy(url):
         paragraph = paragraph.find_next_sibling("p")
         
         if(paragraph is None): # Catch-case
+          print(content.ul)
+          print(content.ul is None)
           if(content.ul is not None):
             firstLink = content.ul.find(href = re.compile('^/wiki/')) # Disambiguation-type page
           if(firstLink is None): # No links available
@@ -56,7 +58,7 @@ def find_philosophy(url):
         firstLink = reParagraph.find(href = re.compile('^/wiki/'))
 
       # For debugging:
-      #print(paragraphText) 
+      print(paragraphText) 
 
     url = 'http://en.wikipedia.org' + firstLink.get('href')
     print(url)
