@@ -30,7 +30,7 @@ def find_philosophy(url):
     print(paragraphText) 
 
     reParagraph = BeautifulSoup(paragraphText) # back into bs4 object to find links
-    firstLink = reParagraph.find(href = re.compile('^/wiki/'))
+    firstLink = reParagraph.find(href = re.compile('^/wiki/')) # links that start with /wiki/ only
 
     while firstLink == None:
       # case of disambiguation: use first wiki link in list
@@ -43,7 +43,6 @@ def find_philosophy(url):
         if(paragraph is None): # Catch-case
           if(content.ul is not None):
             firstLink = content.ul.find(href = re.compile('^/wiki/')) # Disambiguation-type page
-          #print(firstLink)
           if(firstLink is None): # No links available
             print("Wikipedia not reachable.")
             return None
@@ -61,8 +60,8 @@ def find_philosophy(url):
 
     url = 'http://en.wikipedia.org' + firstLink.get('href')
     print(url)
-    r = requests.get(url)
-    soup = BeautifulSoup(r.text)
+    r = requests.get(url) # Make new request
+    soup = BeautifulSoup(r.text) # Soup it up again
 
     count = count+1
 
