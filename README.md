@@ -8,3 +8,6 @@ Following the chain consists of:
 1. Clicking on the first non-parenthesized, non-italicized link
 2. Ignoring external links, links to the current page, or red links
 3. Stopping when reaching "Philosophy", a page with no links or a page that does not exist, or when a loop occurs
+
+*Currently defines main text as non-italicized, non-parenthesized text that does not appear inside a table.
+*Pages with tables alone will not lead to another page

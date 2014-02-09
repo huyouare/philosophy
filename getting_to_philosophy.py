@@ -17,40 +17,47 @@ def find_philosophy(url):
       return None
 
     content = soup.find(id='mw-content-text')
+    for t in content.find_all(class_=['navbox', 'vertical-navbox']):
+      t.replace_with("")
 
     paragraph = soup.select('div#mw-content-text > p')[0] # Only DIRECT child
-    for s in paragraph.find_all(['span', 'small']): # remove spans and smalls with language, pronounciation
+    for s in paragraph.find_all(['span', 'small', 'sup,', 'i', 'table']): # remove spans and smalls with language, pronounciation
       s.replace_with("")
     paragraphText = str(paragraph)
     paragraphText = re.sub(r' \(.*?\)', '', paragraphText) # Remove leftover parenthesized text
     
     # For debugging:
-    # print(paragraphText) 
+    print(paragraphText) 
 
     reParagraph = BeautifulSoup(paragraphText) # back into bs4 object to find links
-    firstLink = reParagraph.find(href = re.compile('/wiki/'))
+    firstLink = reParagraph.find(href = re.compile('^/wiki/'))
 
     while firstLink == None:
       # case of disambiguation: use first wiki link in list
       if '(disambiguation)' in url or '(surname)' in url:
-        firstLink = content.ul.find(href = re.compile('/wiki/'))
+        firstLink = content.ul.find(href = re.compile('^/wiki/'))
 
       else:  
         paragraph = paragraph.find_next_sibling("p")
         
         if(paragraph is None): # Catch-case
-          firstLink = content.ul.find(href = re.compile('/wiki/')) # Disambiguation-type page
+          if(content.ul is not None):
+            firstLink = content.ul.find(href = re.compile('^/wiki/')) # Disambiguation-type page
+          #print(firstLink)
           if(firstLink is None): # No links available
             print("Wikipedia not reachable.")
             return None
           continue
 
-        for s in paragraph.find_all("span"):
+        for s in paragraph.find_all(['span', 'small', 'sup,', 'i', 'table']):
           s.replace_with("")
         paragraphText = str(paragraph)
         paragraphText = re.sub(r' \(.*?\)', '', paragraphText)
         reParagraph = BeautifulSoup(paragraphText)
-        firstLink = reParagraph.find(href = re.compile('/wiki/'))
+        firstLink = reParagraph.find(href = re.compile('^/wiki/'))
+
+      # For debugging:
+      print(paragraphText) 
 
     url = 'http://en.wikipedia.org' + firstLink.get('href')
     print(url)

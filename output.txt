@@ -1,1003 +1,204 @@
 Test 1
-http://en.wikipedia.org/wiki/Sheet_music
-http://en.wikipedia.org/wiki/Music_notation
-http://en.wikipedia.org/wiki/Music
-http://en.wikipedia.org/wiki/Art
-http://en.wikipedia.org/wiki/Human_behavior
-http://en.wikipedia.org/wiki/Behavior
-http://en.wikipedia.org/wiki/Organism
-http://en.wikipedia.org/wiki/Biology
-http://en.wikipedia.org/wiki/Natural_science
-http://en.wikipedia.org/wiki/Sciences
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-20 hops
-Test 2
-http://en.wikipedia.org/wiki/Weston_v._Stammers
-http://en.wikipedia.org/wiki/Case_citation
-http://en.wikipedia.org/wiki/Court_case
-http://en.wikipedia.org/wiki/Court
-http://en.wikipedia.org/wiki/Tribunal
-http://en.wikipedia.org/wiki/Institution
-http://en.wikipedia.org/wiki/Social_structure
-http://en.wikipedia.org/wiki/Social_science
-http://en.wikipedia.org/wiki/Academic_discipline
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-19 hops
-Test 3
-http://en.wikipedia.org/wiki/Prague_International_Jazz_Festival
-http://en.wikipedia.org/wiki/Jazz_festival
-http://en.wikipedia.org/wiki/Jazz
-http://en.wikipedia.org/wiki/Southern_United_States
-http://en.wikipedia.org/wiki/Dixie
-http://en.wikipedia.org/wiki/Nickname
-http://en.wikipedia.org/wiki/Hypocoristic
-http://en.wikipedia.org/wiki/Diminutive
-http://en.wikipedia.org/wiki/Word
-http://en.wikipedia.org/wiki/Linguistics
-http://en.wikipedia.org/wiki/Science
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-21 hops
-Test 4
-http://en.wikipedia.org/wiki/Jason_Fabini
-http://en.wikipedia.org/wiki/American_football
-http://en.wikipedia.org/wiki/Team_sport
-http://en.wikipedia.org/wiki/Sport
-http://en.wikipedia.org/wiki/Competition
-http://en.wikipedia.org/wiki/Biology
-http://en.wikipedia.org/wiki/Natural_science
-http://en.wikipedia.org/wiki/Sciences
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-18 hops
-Test 5
-http://en.wikipedia.org/wiki/Vector_Markup_Language
-http://en.wikipedia.org/wiki/XML
-http://en.wikipedia.org/wiki/Markup_language
-http://en.wikipedia.org/wiki/Annotation
-http://en.wikipedia.org/wiki/Metadata
-http://en.wikipedia.org/wiki/Data
-http://en.wikipedia.org/wiki/Value_(computer_science)
-http://en.wikipedia.org/wiki/Computer_science
-http://en.wikipedia.org/wiki/Science
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-19 hops
-Test 6
-http://en.wikipedia.org/wiki/William_McDermott
-http://en.wikipedia.org/wiki/Bishop
-http://en.wikipedia.org/wiki/Ordination
-http://en.wikipedia.org/wiki/Consecration
-http://en.wikipedia.org/wiki/Ritual
-http://en.wikipedia.org/wiki/Tradition
-http://en.wikipedia.org/wiki/Belief
-http://en.wikipedia.org/wiki/Conjecture
-http://en.wikipedia.org/wiki/Proposition_(philosophy)
-http://en.wikipedia.org/wiki/Philosophy
-9 hops
-Test 7
-http://en.wikipedia.org/wiki/Kidstuff
-http://en.wikipedia.org/wiki/Kids_Stuff
-http://en.wikipedia.org/wiki/Children%27s_music
-http://en.wikipedia.org/wiki/Music
-http://en.wikipedia.org/wiki/Art
-http://en.wikipedia.org/wiki/Human_behavior
-http://en.wikipedia.org/wiki/Behavior
-http://en.wikipedia.org/wiki/Organism
-http://en.wikipedia.org/wiki/Biology
-http://en.wikipedia.org/wiki/Natural_science
-http://en.wikipedia.org/wiki/Sciences
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-21 hops
-Test 8
-http://en.wikipedia.org/wiki/A_Friend_in_California
-http://en.wikipedia.org/wiki/Merle_Haggard
-http://en.wikipedia.org/wiki/Country_music
-http://en.wikipedia.org/wiki/American_popular_music
-http://en.wikipedia.org/wiki/Ragtime
-http://en.wikipedia.org/wiki/Syncopation
-http://en.wikipedia.org/wiki/Music
-http://en.wikipedia.org/wiki/Art
-http://en.wikipedia.org/wiki/Human_behavior
-http://en.wikipedia.org/wiki/Behavior
-http://en.wikipedia.org/wiki/Organism
-http://en.wikipedia.org/wiki/Biology
-http://en.wikipedia.org/wiki/Natural_science
-http://en.wikipedia.org/wiki/Sciences
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-24 hops
-Test 9
-http://en.wikipedia.org/wiki/Garo:_Soukoku_no_Maryu
-http://en.wikipedia.org/wiki/Garo:_Makai_Senki
-http://en.wikipedia.org/wiki/Tokusatsu
-http://en.wikipedia.org/wiki/Special_effect
-http://en.wikipedia.org/wiki/Film
-http://en.wikipedia.org/wiki/Phi_phenomenon
-http://en.wikipedia.org/wiki/Phi
-http://en.wikipedia.org/wiki/Modern_Greek_language
-http://en.wikipedia.org/wiki/Dialect
-http://en.wikipedia.org/wiki/Linguist
-http://en.wikipedia.org/wiki/Science
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-21 hops
-Test 10
-http://en.wikipedia.org/wiki/Baratos_Afins
-http://en.wikipedia.org/wiki/Brazil
-http://en.wikipedia.org/wiki/South_America
-http://en.wikipedia.org/wiki/Continent
-http://en.wikipedia.org/wiki/Landmass
-http://en.wikipedia.org/wiki/Earth
-http://en.wikipedia.org/wiki/Planet
-http://en.wikipedia.org/wiki/Astronomical_object
-http://en.wikipedia.org/wiki/Entity
-http://en.wikipedia.org/wiki/Abstraction
-http://en.wikipedia.org/wiki/First_principle
-http://en.wikipedia.org/wiki/Mathematics
-http://en.wikipedia.org/wiki/Quantity
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-15 hops
-Test 11
-http://en.wikipedia.org/wiki/Portsmouth_F.C._in_European_football
-http://en.wikipedia.org/wiki/Portsmouth_F.C.
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-http://en.wikipedia.org/wiki/Names_for_association_football
-http://en.wikipedia.org/wiki/Association_football
-MAX_HOPS reached.
-Test 12
-http://en.wikipedia.org/wiki/Puchezh
-http://en.wikipedia.org/wiki/Types_of_inhabited_localities_in_Russia
-http://en.wikipedia.org/wiki/Human_settlement
-http://en.wikipedia.org/wiki/Statistics
-http://en.wikipedia.org/wiki/Data
-http://en.wikipedia.org/wiki/Value_(computer_science)
-http://en.wikipedia.org/wiki/Computer_science
-http://en.wikipedia.org/wiki/Science
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-18 hops
-Test 13
-http://en.wikipedia.org/wiki/Takayuki_Takaguchi
-http://en.wikipedia.org/wiki/Japanese_people
-http://en.wikipedia.org/wiki/Ethnic_group
-http://en.wikipedia.org/wiki/Cultural_heritage
-http://en.wikipedia.org/wiki/Society
-http://en.wikipedia.org/wiki/Social_group
-http://en.wikipedia.org/wiki/Social_sciences
-http://en.wikipedia.org/wiki/Academic_discipline
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-18 hops
-Test 14
-http://en.wikipedia.org/wiki/La_Antigua
-http://en.wikipedia.org/wiki/La_Antigua_Guatemala
-http://en.wikipedia.org/wiki/Guatemalan_Highlands
-http://en.wikipedia.org/wiki/Guatemala
-http://en.wikipedia.org/wiki/Central_America
+http://en.wikipedia.org/wiki/Tempo_Beer_Industries
+<p><b>Tempo Beer Industries</b> is <a href="/wiki/Israel" title="Israel">Israel</a>'s largest brewer and the country's second-largest beverage company.</p>
+http://en.wikipedia.org/wiki/Israel
+<p></p>
+<p><b>Israel</b> , officially the <b>State of Israel</b>, is a country in <a href="/wiki/Western_Asia" title="Western Asia">Western Asia</a>, on the south-eastern shore of the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a>. It shares land borders with <a href="/wiki/Lebanon" title="Lebanon">Lebanon</a> in the north, <a href="/wiki/Syria" title="Syria">Syria</a> in the northeast, <a href="/wiki/Jordan" title="Jordan">Jordan</a> on the east, the <a href="/wiki/Palestinian_territories" title="Palestinian territories">Palestinian territories</a> comprising the <a href="/wiki/West_Bank" title="West Bank">West Bank</a> and <a href="/wiki/Gaza_Strip" title="Gaza Strip">Gaza Strip</a> on the east and southwest respectively, <a href="/wiki/Egypt" title="Egypt">Egypt</a> and the <a href="/wiki/Gulf_of_Aqaba" title="Gulf of Aqaba">Gulf of Aqaba</a> in the <a href="/wiki/Red_Sea" title="Red Sea">Red Sea</a> to the south, and it contains geographically diverse features within its relatively small area.<sup class="reference" id="cite_ref-cia_6-0"><a href="#cite_note-cia-6">6</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">7</a></sup> In its <a href="/wiki/Basic_Laws_of_Israel" title="Basic Laws of Israel">Basic Laws</a> Israel defines itself as <a href="/wiki/A_Jewish_and_Democratic_State" title="A Jewish and Democratic State">a Jewish and Democratic State</a>; it is the world's only <a href="/wiki/Homeland_for_the_Jewish_people" title="Homeland for the Jewish people">Jewish-majority state</a>.<sup class="reference" id="cite_ref-freedomhouse2008_8-0"><a href="#cite_note-freedomhouse2008-8">8</a></sup></p>
+http://en.wikipedia.org/wiki/Western_Asia
+<p><b>Western Asia</b>, or <b>Southwest Asia</b>, are terms that describe the westernmost <a href="/wiki/Subregion" title="Subregion">portion</a> of <a href="/wiki/Asia" title="Asia">Asia</a>. The terms are partly <a class="extiw" href="//en.wiktionary.org/wiki/coterminous" title="wikt:coterminous">coterminous</a> with the , which describes a geographical position in relation to <a href="/wiki/Western_Europe" title="Western Europe">Western Europe</a> rather than its location within Asia. Due to this perceived <a href="/wiki/Eurocentrism" title="Eurocentrism">Eurocentrism</a>, international organizations such as the <a href="/wiki/United_Nations" title="United Nations">United Nations</a>,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> have replaced  and  with . This region and <a href="/wiki/Europe" title="Europe">Europe</a> are collectively referred to as .</p>
+http://en.wikipedia.org/wiki/Subregion
+<p>A <b>subregion</b> is a part of a larger <a href="/wiki/Region" title="Region">region</a> or <a href="/wiki/Continent" title="Continent">continent</a> and is usually based on location. <a href="/wiki/Cardinal_direction" title="Cardinal direction">Cardinal directions</a>, such as south or southern, are commonly used to define a subregion.</p>
+http://en.wikipedia.org/wiki/Region
+<p>In <a href="/wiki/Geography" title="Geography">geography</a>, <b>regions</b> are areas broadly divided by physical characteristics, human-impact characteristics, and the interaction of humanity and the environment. Geographic regions and sub regions are mostly described by their imprecisely defined, and sometimes transitory boundaries, except in human geography, where <a href="/wiki/Jurisdiction_(area)" title="Jurisdiction">jurisdiction</a> areas such as national borders are clearly defined in law.</p>
 http://en.wikipedia.org/wiki/Geography
+<p><b>Geography</b> is the branch of <a href="/wiki/Knowledge" title="Knowledge">knowledge</a> that studies the lands, the features, the inhabitants, and the phenomena of the <a href="/wiki/Earth" title="Earth">Earth</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup> A literal translation would be "to describe or write about the Earth". The first person to use the word "geography" was <a href="/wiki/Eratosthenes" title="Eratosthenes">Eratosthenes</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup> Four historical traditions in geographical research are <a href="/wiki/Spatial_analysis" title="Spatial analysis">spatial analysis</a> of the natural and the human phenomena, <a href="/wiki/Area_studies" title="Area studies">area studies</a>, study of the man-land relationship, and research in the <a href="/wiki/Earth_science" title="Earth science">Earth sciences</a>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup> Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the Earth and all of its human and natural complexities - not merely where objects are, but how they have changed and come to be. Geography has been called "the world discipline" and "the bridge between the human and the <a class="mw-redirect" href="/wiki/Physical_science" title="Physical science">physical science</a>". Geography is divided into two main branches: <a href="/wiki/Human_geography" title="Human geography">human geography</a> and <a href="/wiki/Physical_geography" title="Physical geography">physical geography</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">5</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">6</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">7</a></sup></p>
 http://en.wikipedia.org/wiki/Knowledge
+<p><b>Knowledge</b> is a familiarity with someone or something, which can include <a href="/wiki/Fact" title="Fact">facts</a>, <a href="/wiki/Information" title="Information">information</a>, <a href="/wiki/Description" title="Description">descriptions</a>, or <a class="mw-redirect" href="/wiki/Skills" title="Skills">skills</a> acquired through <a href="/wiki/Experience" title="Experience">experience</a> or <a href="/wiki/Education" title="Education">education</a>. It can refer to the theoretical or practical understanding of a subject. It can be implicit or explicit; it can be more or less formal or systematic.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> In <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, the study of knowledge is called <a href="/wiki/Epistemology" title="Epistemology">epistemology</a>; the philosopher <a href="/wiki/Plato" title="Plato">Plato</a> famously defined knowledge as "<a href="/wiki/Justified_true_belief" title="Justified true belief">justified true belief</a>." However, no single agreed upon definition of knowledge exists, though there are numerous theories to explain it.</p>
 http://en.wikipedia.org/wiki/Fact
+<p>A <b>fact</b> is something that has really occurred or is actually the case. The usual test for a statement of fact is verifiability, that is whether it can be <a href="/wiki/Proof_(truth)" title="Proof">proven</a> to correspond to <a href="/wiki/Experience" title="Experience">experience</a>. Standard reference works are often used to check facts. <a href="/wiki/Science" title="Science">Scientific</a> facts are verified by repeatable <a href="/wiki/Experiment" title="Experiment">experiments</a>.</p>
 http://en.wikipedia.org/wiki/Proof_(truth)
+<p>A <b>proof</b> is <a href="/wiki/Necessity_and_sufficiency" title="Necessity and sufficiency">sufficient</a> <a href="/wiki/Evidence" title="Evidence">evidence</a> or an <a href="/wiki/Argument" title="Argument">argument</a> for the <a href="/wiki/Truth" title="Truth">truth</a> of a <a href="/wiki/Proposition" title="Proposition">proposition</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup></p>
 http://en.wikipedia.org/wiki/Necessity_and_sufficiency
+<p>In <a href="/wiki/Logic" title="Logic">logic</a>, <b>necessity</b> and <b>sufficiency</b> are implicational relationships between <a href="/wiki/Statement_(logic)" title="Statement">statements</a>.<sup class="Template-Fact" style="white-space:nowrap;">[]</sup> The assertion that one statement is a  <a href="/wiki/Condition_(philosophy)" title="Condition">condition</a> of another means that the former statement is true <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a> the latter is true. That is, the two statements must be either simultaneously true or simultaneously false. In <a class="mw-redirect" href="/wiki/Ordinary_English" title="Ordinary English">ordinary English</a>, ‘necessary’ and ‘sufficient’ indicate relations between <a href="/wiki/Condition_(philosophy)" title="Condition">conditions</a> or states of affairs, not statements. Being male sibling is a necessary and sufficient condition for being a brother. Fred’s being a male sibling is necessary and sufficient for the truth of the statement that Fred is a brother.</p>
 http://en.wikipedia.org/wiki/Logic
+<p><b>Logic</b><sup class="reference" id="cite_ref-argumentative_1-0"><a href="#cite_note-argumentative-1">1</a></sup> has two meanings: first, it describes the use of valid <a class="mw-redirect" href="/wiki/Reasoning" title="Reasoning">reasoning</a> in some activity; second, it names the <a href="/wiki/Normative" title="Normative">normative</a> study of reasoning or a branch thereof.<sup class="reference" id="cite_ref-PopkinStroll1993_2-0"><a href="#cite_note-PopkinStroll1993-2">2</a></sup><sup class="reference" id="cite_ref-jacquette2002_3-0"><a href="#cite_note-jacquette2002-3">3</a></sup> In the latter sense, it features most prominently in the subjects of <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Computer_science" title="Computer science">computer science</a>.</p>
 http://en.wikipedia.org/wiki/Reasoning
+<p><b>Reason</b> is the capacity for <a href="/wiki/Consciousness" title="Consciousness">consciously</a> making sense of things, applying <a href="/wiki/Logic" title="Logic">logic</a>, for establishing and verifying <a href="/wiki/Fact" title="Fact">facts</a>, and changing or justifying practices, institutions, and <a href="/wiki/Belief" title="Belief">beliefs</a> based on new or existing information.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> It is closely associated with such characteristically <a href="/wiki/Human" title="Human">human</a> activities as <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, <a href="/wiki/Science" title="Science">science</a>, <a href="/wiki/Language" title="Language">language</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Art" title="Art">art</a>, and is normally considered to be a definitive characteristic of <a href="/wiki/Human_nature" title="Human nature">human nature</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup> The concept of reason is sometimes referred to as <a href="/wiki/Rationality" title="Rationality">rationality</a> and sometimes as <b>discursive reason</b>, in opposition to <a href="/wiki/Intuition_(psychology)" title="Intuition">intuitive reason</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup></p>
 http://en.wikipedia.org/wiki/Consciousness
+<p><b>Consciousness</b> is the <a href="/wiki/Quality_(philosophy)" title="Quality">quality</a> or state of being aware of an external object or something within oneself.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup><sup class="reference" id="cite_ref-van_Gulick2004_2-0"><a href="#cite_note-van_Gulick2004-2">2</a></sup> It has been defined as: <a href="/wiki/Sentience" title="Sentience">sentience</a>, <a href="/wiki/Awareness" title="Awareness">awareness</a>, <a href="/wiki/Subjectivity" title="Subjectivity">subjectivity</a>, the ability to <a href="/wiki/Experience" title="Experience">experience</a> or to <a href="/wiki/Feeling" title="Feeling">feel</a>, wakefulness, having a sense of <a href="/wiki/Self" title="Self">selfhood</a>, and the executive control system of the mind.<sup class="reference" id="cite_ref-Farthing1992Psychology_3-0"><a href="#cite_note-Farthing1992Psychology-3">3</a></sup> Despite the difficulty in definition, many philosophers believe that there is a broadly shared underlying intuition about what consciousness is.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup> As <a href="/wiki/Max_Velmans" title="Max Velmans">Max Velmans</a> and Susan Schneider wrote in : "Anything that we are aware of at a given moment forms part of our consciousness, making conscious experience at once the most familiar and most mysterious aspect of our lives."<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">5</a></sup></p>
 http://en.wikipedia.org/wiki/Quality_(philosophy)
+<p>A <b>quality</b><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> is an attribute or a <a href="/wiki/Property_(philosophy)" title="Property">property</a>. Attributes are ascribable, by a subject, whereas properties are possessible.<sup class="reference" id="cite_ref-Cargile.2C_1995_2-0"><a href="#cite_note-Cargile.2C_1995-2">2</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[]</sup> In contemporary <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> the idea of qualities, and especially how to distinguish certain kinds of qualities from one another, remains controversial.<sup class="reference" id="cite_ref-Cargile.2C_1995_2-1"><a href="#cite_note-Cargile.2C_1995-2">2</a></sup></p>
 http://en.wikipedia.org/wiki/Property_(philosophy)
+<p>In <a href="/wiki/Modern_philosophy" title="Modern philosophy">modern philosophy</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Logic" title="Logic">logic</a>, a <b>property</b> is an attribute of an <a href="/wiki/Object_(philosophy)" title="Object">object</a>; a red object is said to have the property of redness. The property may be considered a form of object in its own right, able to possess other properties. A property however differs from individual objects in that it may be instantiated, and often in more than one thing. It differs from the logical/mathematical concept of <a href="/wiki/Class_(set_theory)" title="Class">class</a> by not having any concept of <a href="/wiki/Extensionality" title="Extensionality">extensionality</a>, and from the philosophical concept of <a href="/wiki/Class_(philosophy)" title="Class">class</a> in that a property is considered to be distinct from the objects which possess it. Understanding how different individual entities can in some sense have some of the same properties is the basis of the <a href="/wiki/Problem_of_universals" title="Problem of universals">problem of universals</a>. The terms <b>attribute</b> and <b>quality</b> have similar meanings.</p>
 http://en.wikipedia.org/wiki/Modern_philosophy
+<p><b>Modern philosophy</b> is a category of <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> that originated in <a href="/wiki/Western_Europe" title="Western Europe">Western Europe</a> in the 17th century, and is now common worldwide. It is not a specific doctrine or school, although there are certain assumptions common to much of it, which helps to distinguish it from earlier <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup></p>
 http://en.wikipedia.org/wiki/Philosophy
 16 hops
-Test 15
-http://en.wikipedia.org/wiki/Fathabad,_West_Azerbaijan
-http://en.wikipedia.org/wiki/Hulasu_Rural_District
-http://en.wikipedia.org/wiki/Rural_Districts_of_Iran
-http://en.wikipedia.org/wiki/Country_subdivision
-http://en.wikipedia.org/wiki/Country
-http://en.wikipedia.org/wiki/Political_geography
-http://en.wikipedia.org/wiki/Human_geography
-http://en.wikipedia.org/wiki/Geography
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-18 hops
-Test 16
-http://en.wikipedia.org/wiki/List_of_presidents_of_the_American_Geophysical_Union
-http://en.wikipedia.org/wiki/American_Geophysical_Union
-http://en.wikipedia.org/wiki/Geophysicist
-http://en.wikipedia.org/wiki/Earth
-http://en.wikipedia.org/wiki/Planet
-http://en.wikipedia.org/wiki/Astronomical_object
-http://en.wikipedia.org/wiki/Entity
-http://en.wikipedia.org/wiki/Abstraction
-http://en.wikipedia.org/wiki/First_principle
-http://en.wikipedia.org/wiki/Mathematics
-http://en.wikipedia.org/wiki/Quantity
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-13 hops
-Test 17
-http://en.wikipedia.org/wiki/Otto_Schultze
-http://en.wikipedia.org/wiki/Generaladmiral
-http://en.wikipedia.org/wiki/Military_rank
-http://en.wikipedia.org/wiki/Hierarchy
-http://en.wikipedia.org/wiki/Hierarch
-http://en.wikipedia.org/wiki/Western_Christianity
-http://en.wikipedia.org/wiki/Latin_Church
-http://en.wikipedia.org/wiki/Particular_church
-http://en.wikipedia.org/wiki/Canon_law_(Catholic_Church)
-http://en.wikipedia.org/wiki/Canon_law
-http://en.wikipedia.org/wiki/Ecclesiastical_jurisdiction
-http://en.wikipedia.org/wiki/Jurisdiction
-http://en.wikipedia.org/wiki/Authority
-http://en.wikipedia.org/wiki/Latin
-http://en.wikipedia.org/wiki/Classical_antiquity
-http://en.wikipedia.org/wiki/History
-http://en.wikipedia.org/wiki/Umbrella_term
-http://en.wikipedia.org/wiki/Terminology
-http://en.wikipedia.org/wiki/Word
-http://en.wikipedia.org/wiki/Linguistics
-http://en.wikipedia.org/wiki/Science
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-31 hops
-Test 18
-http://en.wikipedia.org/wiki/Wonder_of_the_World_(album)
-http://en.wikipedia.org/wiki/Contemporary_Christian_music
-http://en.wikipedia.org/wiki/Popular_music
-http://en.wikipedia.org/wiki/Musical_genre
-http://en.wikipedia.org/wiki/Music
-http://en.wikipedia.org/wiki/Art
-http://en.wikipedia.org/wiki/Human_behavior
-http://en.wikipedia.org/wiki/Behavior
-http://en.wikipedia.org/wiki/Organism
-http://en.wikipedia.org/wiki/Biology
-http://en.wikipedia.org/wiki/Natural_science
-http://en.wikipedia.org/wiki/Sciences
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-22 hops
-Test 19
-http://en.wikipedia.org/wiki/Bschie%C3%9Fer
-http://en.wikipedia.org/wiki/Bavaria
-http://en.wikipedia.org/wiki/States_of_Germany
-http://en.wikipedia.org/wiki/Germany
-http://en.wikipedia.org/wiki/Federation
-http://en.wikipedia.org/wiki/Political_union
-http://en.wikipedia.org/wiki/State_(polity)
-http://en.wikipedia.org/wiki/Community
-http://en.wikipedia.org/wiki/Level_of_analysis#Meso-level
-http://en.wikipedia.org/wiki/Unit_of_observation
-http://en.wikipedia.org/wiki/Statistics
-http://en.wikipedia.org/wiki/Data
-http://en.wikipedia.org/wiki/Value_(computer_science)
-http://en.wikipedia.org/wiki/Computer_science
-http://en.wikipedia.org/wiki/Science
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-25 hops
-Test 20
-http://en.wikipedia.org/wiki/Willem_Schellinks
-http://en.wikipedia.org/wiki/Dutch_Golden_Age
-http://en.wikipedia.org/wiki/Dutch_history
-http://en.wikipedia.org/wiki/River_delta
-http://en.wikipedia.org/wiki/River
-http://en.wikipedia.org/wiki/Watercourse
-http://en.wikipedia.org/wiki/Water
-http://en.wikipedia.org/wiki/Chemical_compound
-http://en.wikipedia.org/wiki/Chemical_substance
-http://en.wikipedia.org/wiki/Chemistry
-http://en.wikipedia.org/wiki/Physical_science
-http://en.wikipedia.org/wiki/Physics
-http://en.wikipedia.org/wiki/Natural_science
-http://en.wikipedia.org/wiki/Sciences
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-24 hops
-Test 21
-http://en.wikipedia.org/wiki/Torhild_Johnsen
-http://en.wikipedia.org/wiki/Christian_Democratic_Party_of_Norway
-http://en.wikipedia.org/wiki/Christian_democracy
-http://en.wikipedia.org/wiki/Christianity
-http://en.wikipedia.org/wiki/Monotheism
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica
-http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
-MAX_HOPS reached.
-Test 22
-http://en.wikipedia.org/wiki/Institute_for_Bible_Translation
-http://en.wikipedia.org/wiki/Stockholm
-http://en.wikipedia.org/wiki/Sweden
-http://en.wikipedia.org/wiki/Scandinavia
-http://en.wikipedia.org/wiki/Historical_region
-http://en.wikipedia.org/wiki/List_of_time_periods
-http://en.wikipedia.org/wiki/Time
-http://en.wikipedia.org/wiki/Dimension
-http://en.wikipedia.org/wiki/Physics
-http://en.wikipedia.org/wiki/Natural_science
-http://en.wikipedia.org/wiki/Sciences
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-21 hops
-Test 23
-http://en.wikipedia.org/wiki/Gustav_Heinrich_Wiedemann
-http://en.wikipedia.org/wiki/Germany
-http://en.wikipedia.org/wiki/Federation
-http://en.wikipedia.org/wiki/Political_union
-http://en.wikipedia.org/wiki/State_(polity)
-http://en.wikipedia.org/wiki/Community
-http://en.wikipedia.org/wiki/Level_of_analysis#Meso-level
-http://en.wikipedia.org/wiki/Unit_of_observation
-http://en.wikipedia.org/wiki/Statistics
-http://en.wikipedia.org/wiki/Data
-http://en.wikipedia.org/wiki/Value_(computer_science)
-http://en.wikipedia.org/wiki/Computer_science
-http://en.wikipedia.org/wiki/Science
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-23 hops
-Test 24
-http://en.wikipedia.org/wiki/Somebody_Else%27s_Moon
-http://en.wikipedia.org/wiki/Tom_Shapiro
-http://en.wikipedia.org/wiki/Songwriter
-http://en.wikipedia.org/wiki/Song
-http://en.wikipedia.org/wiki/Music
-http://en.wikipedia.org/wiki/Art
-http://en.wikipedia.org/wiki/Human_behavior
-http://en.wikipedia.org/wiki/Behavior
-http://en.wikipedia.org/wiki/Organism
-http://en.wikipedia.org/wiki/Biology
-http://en.wikipedia.org/wiki/Natural_science
-http://en.wikipedia.org/wiki/Sciences
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-22 hops
-Test 25
-http://en.wikipedia.org/wiki/Preselentsi
-http://en.wikipedia.org/wiki/General_Toshevo
-http://en.wikipedia.org/wiki/Bulgaria
-http://en.wikipedia.org/wiki/Southeast_Europe
-http://en.wikipedia.org/wiki/Sovereign_state
-http://en.wikipedia.org/wiki/Centralized_government
-http://en.wikipedia.org/wiki/Political_power
-http://en.wikipedia.org/wiki/Social_science
-http://en.wikipedia.org/wiki/Academic_discipline
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-19 hops
-Test 26
-http://en.wikipedia.org/wiki/Somua
-http://en.wikipedia.org/wiki/Schneider-Creusot
-http://en.wikipedia.org/wiki/World_War_II
-http://en.wikipedia.org/wiki/Global_war
-http://en.wikipedia.org/wiki/War
-http://en.wikipedia.org/wiki/State_(polity)
-http://en.wikipedia.org/wiki/Community
-http://en.wikipedia.org/wiki/Level_of_analysis#Meso-level
-http://en.wikipedia.org/wiki/Unit_of_observation
-http://en.wikipedia.org/wiki/Statistics
-http://en.wikipedia.org/wiki/Data
-http://en.wikipedia.org/wiki/Value_(computer_science)
-http://en.wikipedia.org/wiki/Computer_science
-http://en.wikipedia.org/wiki/Science
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-24 hops
-Test 27
-http://en.wikipedia.org/wiki/9823_Annantalov%C3%A1
-http://en.wikipedia.org/wiki/Main_belt
-http://en.wikipedia.org/wiki/Solar_System
-http://en.wikipedia.org/wiki/Sun
-http://en.wikipedia.org/wiki/Star
-http://en.wikipedia.org/wiki/Stellar_mass
-http://en.wikipedia.org/wiki/Astronomer
-http://en.wikipedia.org/wiki/Celestial_body
-http://en.wikipedia.org/wiki/Entity
-http://en.wikipedia.org/wiki/Abstraction
-http://en.wikipedia.org/wiki/First_principle
-http://en.wikipedia.org/wiki/Mathematics
-http://en.wikipedia.org/wiki/Quantity
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-15 hops
-Test 28
-http://en.wikipedia.org/wiki/Pete_Reed
-http://en.wikipedia.org/wiki/Order_of_the_British_Empire
-http://en.wikipedia.org/wiki/Order_of_chivalry
-http://en.wikipedia.org/wiki/Knight
-http://en.wikipedia.org/wiki/Title
-http://en.wikipedia.org/wiki/Prefix_(linguistics)
-http://en.wikipedia.org/wiki/Affix
-http://en.wikipedia.org/wiki/Morpheme
-http://en.wikipedia.org/wiki/Linguistics
-http://en.wikipedia.org/wiki/Science
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-20 hops
-Test 29
-http://en.wikipedia.org/wiki/Elmira_Minita_Gordon
-http://en.wikipedia.org/wiki/Governor-General_of_Belize
-http://en.wikipedia.org/wiki/Monarch_of_Belize
-http://en.wikipedia.org/wiki/Sovereignty
-http://en.wikipedia.org/wiki/Authority
-http://en.wikipedia.org/wiki/Latin
-http://en.wikipedia.org/wiki/Classical_antiquity
-http://en.wikipedia.org/wiki/History
-http://en.wikipedia.org/wiki/Umbrella_term
-http://en.wikipedia.org/wiki/Terminology
-http://en.wikipedia.org/wiki/Word
-http://en.wikipedia.org/wiki/Linguistics
-http://en.wikipedia.org/wiki/Science
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-23 hops
-Test 30
-http://en.wikipedia.org/wiki/Marloes_Sands
-http://en.wikipedia.org/wiki/Pembrokeshire
-http://en.wikipedia.org/wiki/South_West_Wales
-http://en.wikipedia.org/wiki/Wales
-http://en.wikipedia.org/wiki/Country
-http://en.wikipedia.org/wiki/Political_geography
-http://en.wikipedia.org/wiki/Human_geography
-http://en.wikipedia.org/wiki/Geography
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-18 hops
-Test 31
-http://en.wikipedia.org/wiki/Ring_expansion_and_ring_contraction
-http://en.wikipedia.org/wiki/Cyclic_compound
-http://en.wikipedia.org/wiki/Chemistry
-http://en.wikipedia.org/wiki/Physical_science
-http://en.wikipedia.org/wiki/Physics
-http://en.wikipedia.org/wiki/Natural_science
-http://en.wikipedia.org/wiki/Sciences
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-17 hops
-Test 32
-http://en.wikipedia.org/wiki/Neon_(disambiguation)
-http://en.wikipedia.org/wiki/Neon
-http://en.wikipedia.org/wiki/Chemical_element
-http://en.wikipedia.org/wiki/Chemical_substance
-http://en.wikipedia.org/wiki/Chemistry
-http://en.wikipedia.org/wiki/Physical_science
-http://en.wikipedia.org/wiki/Physics
-http://en.wikipedia.org/wiki/Natural_science
-http://en.wikipedia.org/wiki/Sciences
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-19 hops
-Test 33
-http://en.wikipedia.org/wiki/Endovelicus
-http://en.wikipedia.org/wiki/Iron_Age
-http://en.wikipedia.org/wiki/Periodization
-http://en.wikipedia.org/wiki/Universal_history
-http://en.wikipedia.org/wiki/History
-http://en.wikipedia.org/wiki/Umbrella_term
-http://en.wikipedia.org/wiki/Terminology
-http://en.wikipedia.org/wiki/Word
-http://en.wikipedia.org/wiki/Linguistics
-http://en.wikipedia.org/wiki/Science
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-20 hops
-Test 34
-http://en.wikipedia.org/wiki/Aqa_Baba,_Qazvin
-http://en.wikipedia.org/wiki/Ilat-e_Qaqazan-e_Sharqi_Rural_District
-http://en.wikipedia.org/wiki/Rural_Districts_of_Iran
-http://en.wikipedia.org/wiki/Country_subdivision
-http://en.wikipedia.org/wiki/Country
-http://en.wikipedia.org/wiki/Political_geography
-http://en.wikipedia.org/wiki/Human_geography
-http://en.wikipedia.org/wiki/Geography
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-18 hops
-Test 35
-http://en.wikipedia.org/wiki/Joan_Lawrence
-http://en.wikipedia.org/wiki/Ohio_House_of_Representatives
-http://en.wikipedia.org/wiki/Lower_house
-http://en.wikipedia.org/wiki/Bicameral
-http://en.wikipedia.org/wiki/Classical_antiquity
-http://en.wikipedia.org/wiki/History
-http://en.wikipedia.org/wiki/Umbrella_term
-http://en.wikipedia.org/wiki/Terminology
-http://en.wikipedia.org/wiki/Word
-http://en.wikipedia.org/wiki/Linguistics
-http://en.wikipedia.org/wiki/Science
-http://en.wikipedia.org/wiki/Knowledge
-http://en.wikipedia.org/wiki/Fact
-http://en.wikipedia.org/wiki/Proof_(truth)
-http://en.wikipedia.org/wiki/Necessity_and_sufficiency
-http://en.wikipedia.org/wiki/Logic
-http://en.wikipedia.org/wiki/Reasoning
-http://en.wikipedia.org/wiki/Consciousness
-http://en.wikipedia.org/wiki/Quality_(philosophy)
-http://en.wikipedia.org/wiki/Property_(philosophy)
-http://en.wikipedia.org/wiki/Modern_philosophy
-http://en.wikipedia.org/wiki/Philosophy
-21 hops
-Test 36
-http://en.wikipedia.org/wiki/Ornipholidotos_ackeryi
-http://en.wikipedia.org/wiki/Butterfly
+Test 2
+http://en.wikipedia.org/wiki/Dinia_subapicalis
+<p> is a <a href="/wiki/Moth" title="Moth">moth</a> of the <a href="/wiki/Arctiidae" title="Arctiidae">Arctiidae</a> family. It was described by <a href="/wiki/Francis_Walker_(entomologist)" title="Francis Walker">Walker</a> in 1854. It is found in <a href="/wiki/Peru" title="Peru">Peru</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup></p>
+http://en.wikipedia.org/wiki/Moth
+<p>A <b>moth</b> is an <a href="/wiki/Insect" title="Insect">insect</a> related to the <a href="/wiki/Butterfly" title="Butterfly">butterfly</a>, both being of the <a href="/wiki/Order_(biology)" title="Order">order</a> <a href="/wiki/Lepidoptera" title="Lepidoptera">Lepidoptera</a>. Most of this order are moths; there are thought to be approximately 160,000 species of moth,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> with many species yet to be described. Most species of moth are <a class="mw-redirect" href="/wiki/Nocturnal" title="Nocturnal">nocturnal</a>, but there are also <a href="/wiki/Crepuscular" title="Crepuscular">crepuscular</a> and <a class="mw-redirect" href="/wiki/Diurnal_animal" title="Diurnal animal">diurnal</a> species.</p>
 http://en.wikipedia.org/wiki/Insect
+<p><b>Insects</b> are a <a href="/wiki/Class_(biology)" title="Class">class</a> of <a href="/wiki/Invertebrate" title="Invertebrate">invertebrates</a> within the <a href="/wiki/Arthropod" title="Arthropod">arthropod</a> phylum that have a <a href="/wiki/Chitin" title="Chitin">chitinous</a> <a href="/wiki/Exoskeleton" title="Exoskeleton">exoskeleton</a>, a three-part body" title="Thorax">thorax</a> and <a href="/wiki/Abdomen" title="Abdomen">abdomen</a>), three pairs of jointed <a href="/wiki/Arthropod_leg" title="Arthropod leg">legs</a>, <a class="mw-redirect" href="/wiki/Compound_eye" title="Compound eye">compound eyes</a> and one pair of <a href="/wiki/Antenna_(biology)" title="Antenna">antennae</a>. They are among the most diverse groups of <a href="/wiki/Animal" title="Animal">animals</a> on the planet, including more than a million described <a href="/wiki/Species" title="Species">species</a> and representing more than half of all known living organisms.<sup class="reference" id="cite_ref-Chapman_2-0"><a href="#cite_note-Chapman-2">2</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup> The number of <a href="/wiki/Extant_taxon" title="Extant taxon">extant</a> species is estimated at between six and ten million,<sup class="reference" id="cite_ref-Chapman_2-1"><a href="#cite_note-Chapman-2">2</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup><sup class="reference" id="cite_ref-number_5-0"><a href="#cite_note-number-5">5</a></sup> and potentially represent over 90% of the differing animal life forms on Earth.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">6</a></sup> Insects may be found in nearly all <a href="/wiki/Natural_environment" title="Natural environment">environments</a>, although only a small number of species reside in the oceans, a habitat dominated by another arthropod group, <a href="/wiki/Crustacean" title="Crustacean">crustaceans</a>.</p>
 http://en.wikipedia.org/wiki/Class_(biology)
+<p>In <a href="/wiki/Biological_classification" title="Biological classification">biological classification</a>, <b>class</b> is:</p>
 http://en.wikipedia.org/wiki/Biological_classification
+<p><b>Biological classification</b>, or <b>scientific classification in biology</b>, is a method of <a href="/wiki/Taxonomy_(biology)" title="Taxonomy">scientific taxonomy</a> used to group and <a class="mw-redirect" href="/wiki/Categorize" title="Categorize">categorize</a> <a href="/wiki/Organism" title="Organism">organisms</a> into groups such as <a href="/wiki/Genus" title="Genus">genus</a> or <a href="/wiki/Species" title="Species">species</a>. These groups are known as <b><a href="/wiki/Taxon" title="Taxon">taxa</a></b>.</p>
 http://en.wikipedia.org/wiki/Taxonomy_(biology)
+<p><b>Taxonomy</b><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> is the <a href="/wiki/Science" title="Science">science</a> of defining groups of biological <a href="/wiki/Organism" title="Organism">organisms</a> on the basis of shared characteristics and giving names to those groups. Organisms are grouped together into <a href="/wiki/Taxon" title="Taxon">taxa</a> and given a <a href="/wiki/Taxonomic_rank" title="Taxonomic rank">taxonomic rank</a>; groups of a given rank can be aggregated to form a super group of higher rank and thus create a taxonomic hierarchy.<sup class="reference" id="cite_ref-Judd_2-0"><a href="#cite_note-Judd-2">2</a></sup><sup class="reference" id="cite_ref-Simpson_3-0"><a href="#cite_note-Simpson-3">3</a></sup> The Swedish botanist <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Carolus Linnaeus</a> is regarded as the father of taxonomy, as he developed a system known as <a class="mw-redirect" href="/wiki/Linnaean_classification" title="Linnaean classification">Linnaean classification</a> for categorization of organisms and <a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">binomial nomenclature</a> for naming organisms.</p>
 http://en.wikipedia.org/wiki/Science
+<p><b>Science</b> is a systematic enterprise that builds and organizes <a href="/wiki/Knowledge" title="Knowledge">knowledge</a> in the form of testable explanations and predictions about the <a href="/wiki/Universe" title="Universe">universe</a>.<sup class="reference" id="cite_ref-wilson_2-0"><a href="#cite_note-wilson-2">2</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup> In an older and closely related meaning, "science" also refers to a body of knowledge itself, of the type that can be rationally explained and reliably applied. A practitioner of science is known as a <a href="/wiki/Scientist" title="Scientist">scientist</a>.</p>
 http://en.wikipedia.org/wiki/Knowledge
+<p><b>Knowledge</b> is a familiarity with someone or something, which can include <a href="/wiki/Fact" title="Fact">facts</a>, <a href="/wiki/Information" title="Information">information</a>, <a href="/wiki/Description" title="Description">descriptions</a>, or <a class="mw-redirect" href="/wiki/Skills" title="Skills">skills</a> acquired through <a href="/wiki/Experience" title="Experience">experience</a> or <a href="/wiki/Education" title="Education">education</a>. It can refer to the theoretical or practical understanding of a subject. It can be implicit or explicit; it can be more or less formal or systematic.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> In <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, the study of knowledge is called <a href="/wiki/Epistemology" title="Epistemology">epistemology</a>; the philosopher <a href="/wiki/Plato" title="Plato">Plato</a> famously defined knowledge as "<a href="/wiki/Justified_true_belief" title="Justified true belief">justified true belief</a>." However, no single agreed upon definition of knowledge exists, though there are numerous theories to explain it.</p>
 http://en.wikipedia.org/wiki/Fact
+<p>A <b>fact</b> is something that has really occurred or is actually the case. The usual test for a statement of fact is verifiability, that is whether it can be <a href="/wiki/Proof_(truth)" title="Proof">proven</a> to correspond to <a href="/wiki/Experience" title="Experience">experience</a>. Standard reference works are often used to check facts. <a href="/wiki/Science" title="Science">Scientific</a> facts are verified by repeatable <a href="/wiki/Experiment" title="Experiment">experiments</a>.</p>
 http://en.wikipedia.org/wiki/Proof_(truth)
+<p>A <b>proof</b> is <a href="/wiki/Necessity_and_sufficiency" title="Necessity and sufficiency">sufficient</a> <a href="/wiki/Evidence" title="Evidence">evidence</a> or an <a href="/wiki/Argument" title="Argument">argument</a> for the <a href="/wiki/Truth" title="Truth">truth</a> of a <a href="/wiki/Proposition" title="Proposition">proposition</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup></p>
 http://en.wikipedia.org/wiki/Necessity_and_sufficiency
+<p>In <a href="/wiki/Logic" title="Logic">logic</a>, <b>necessity</b> and <b>sufficiency</b> are implicational relationships between <a href="/wiki/Statement_(logic)" title="Statement">statements</a>.<sup class="Template-Fact" style="white-space:nowrap;">[]</sup> The assertion that one statement is a  <a href="/wiki/Condition_(philosophy)" title="Condition">condition</a> of another means that the former statement is true <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a> the latter is true. That is, the two statements must be either simultaneously true or simultaneously false. In <a class="mw-redirect" href="/wiki/Ordinary_English" title="Ordinary English">ordinary English</a>, ‘necessary’ and ‘sufficient’ indicate relations between <a href="/wiki/Condition_(philosophy)" title="Condition">conditions</a> or states of affairs, not statements. Being male sibling is a necessary and sufficient condition for being a brother. Fred’s being a male sibling is necessary and sufficient for the truth of the statement that Fred is a brother.</p>
 http://en.wikipedia.org/wiki/Logic
+<p><b>Logic</b><sup class="reference" id="cite_ref-argumentative_1-0"><a href="#cite_note-argumentative-1">1</a></sup> has two meanings: first, it describes the use of valid <a class="mw-redirect" href="/wiki/Reasoning" title="Reasoning">reasoning</a> in some activity; second, it names the <a href="/wiki/Normative" title="Normative">normative</a> study of reasoning or a branch thereof.<sup class="reference" id="cite_ref-PopkinStroll1993_2-0"><a href="#cite_note-PopkinStroll1993-2">2</a></sup><sup class="reference" id="cite_ref-jacquette2002_3-0"><a href="#cite_note-jacquette2002-3">3</a></sup> In the latter sense, it features most prominently in the subjects of <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Computer_science" title="Computer science">computer science</a>.</p>
 http://en.wikipedia.org/wiki/Reasoning
+<p><b>Reason</b> is the capacity for <a href="/wiki/Consciousness" title="Consciousness">consciously</a> making sense of things, applying <a href="/wiki/Logic" title="Logic">logic</a>, for establishing and verifying <a href="/wiki/Fact" title="Fact">facts</a>, and changing or justifying practices, institutions, and <a href="/wiki/Belief" title="Belief">beliefs</a> based on new or existing information.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> It is closely associated with such characteristically <a href="/wiki/Human" title="Human">human</a> activities as <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, <a href="/wiki/Science" title="Science">science</a>, <a href="/wiki/Language" title="Language">language</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Art" title="Art">art</a>, and is normally considered to be a definitive characteristic of <a href="/wiki/Human_nature" title="Human nature">human nature</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup> The concept of reason is sometimes referred to as <a href="/wiki/Rationality" title="Rationality">rationality</a> and sometimes as <b>discursive reason</b>, in opposition to <a href="/wiki/Intuition_(psychology)" title="Intuition">intuitive reason</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup></p>
 http://en.wikipedia.org/wiki/Consciousness
+<p><b>Consciousness</b> is the <a href="/wiki/Quality_(philosophy)" title="Quality">quality</a> or state of being aware of an external object or something within oneself.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup><sup class="reference" id="cite_ref-van_Gulick2004_2-0"><a href="#cite_note-van_Gulick2004-2">2</a></sup> It has been defined as: <a href="/wiki/Sentience" title="Sentience">sentience</a>, <a href="/wiki/Awareness" title="Awareness">awareness</a>, <a href="/wiki/Subjectivity" title="Subjectivity">subjectivity</a>, the ability to <a href="/wiki/Experience" title="Experience">experience</a> or to <a href="/wiki/Feeling" title="Feeling">feel</a>, wakefulness, having a sense of <a href="/wiki/Self" title="Self">selfhood</a>, and the executive control system of the mind.<sup class="reference" id="cite_ref-Farthing1992Psychology_3-0"><a href="#cite_note-Farthing1992Psychology-3">3</a></sup> Despite the difficulty in definition, many philosophers believe that there is a broadly shared underlying intuition about what consciousness is.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup> As <a href="/wiki/Max_Velmans" title="Max Velmans">Max Velmans</a> and Susan Schneider wrote in : "Anything that we are aware of at a given moment forms part of our consciousness, making conscious experience at once the most familiar and most mysterious aspect of our lives."<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">5</a></sup></p>
 http://en.wikipedia.org/wiki/Quality_(philosophy)
+<p>A <b>quality</b><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> is an attribute or a <a href="/wiki/Property_(philosophy)" title="Property">property</a>. Attributes are ascribable, by a subject, whereas properties are possessible.<sup class="reference" id="cite_ref-Cargile.2C_1995_2-0"><a href="#cite_note-Cargile.2C_1995-2">2</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[]</sup> In contemporary <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> the idea of qualities, and especially how to distinguish certain kinds of qualities from one another, remains controversial.<sup class="reference" id="cite_ref-Cargile.2C_1995_2-1"><a href="#cite_note-Cargile.2C_1995-2">2</a></sup></p>
 http://en.wikipedia.org/wiki/Property_(philosophy)
+<p>In <a href="/wiki/Modern_philosophy" title="Modern philosophy">modern philosophy</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Logic" title="Logic">logic</a>, a <b>property</b> is an attribute of an <a href="/wiki/Object_(philosophy)" title="Object">object</a>; a red object is said to have the property of redness. The property may be considered a form of object in its own right, able to possess other properties. A property however differs from individual objects in that it may be instantiated, and often in more than one thing. It differs from the logical/mathematical concept of <a href="/wiki/Class_(set_theory)" title="Class">class</a> by not having any concept of <a href="/wiki/Extensionality" title="Extensionality">extensionality</a>, and from the philosophical concept of <a href="/wiki/Class_(philosophy)" title="Class">class</a> in that a property is considered to be distinct from the objects which possess it. Understanding how different individual entities can in some sense have some of the same properties is the basis of the <a href="/wiki/Problem_of_universals" title="Problem of universals">problem of universals</a>. The terms <b>attribute</b> and <b>quality</b> have similar meanings.</p>
 http://en.wikipedia.org/wiki/Modern_philosophy
+<p><b>Modern philosophy</b> is a category of <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> that originated in <a href="/wiki/Western_Europe" title="Western Europe">Western Europe</a> in the 17th century, and is now common worldwide. It is not a specific doctrine or school, although there are certain assumptions common to much of it, which helps to distinguish it from earlier <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup></p>
 http://en.wikipedia.org/wiki/Philosophy
 17 hops
-Test 37
-http://en.wikipedia.org/wiki/Qaleh_Shisheh
-http://en.wikipedia.org/wiki/Belharat_Rural_District
-http://en.wikipedia.org/wiki/Rural_Districts_of_Iran
-http://en.wikipedia.org/wiki/Country_subdivision
-http://en.wikipedia.org/wiki/Country
-http://en.wikipedia.org/wiki/Political_geography
-http://en.wikipedia.org/wiki/Human_geography
-http://en.wikipedia.org/wiki/Geography
+Test 3
+http://en.wikipedia.org/wiki/Woodlands_railway_station
+<p><b>Woodlands railway station</b> was on the <a href="/wiki/Schull_and_Skibbereen_Railway" title="Schull and Skibbereen Railway">Schull and Skibbereen Railway</a> in <a href="/wiki/County_Cork" title="County Cork">County Cork</a>, <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a>.</p>
+http://en.wikipedia.org/wiki/Schull_and_Skibbereen_Railway
+<p>The <b>Schull and Skibbereen Railway</b> was a minor <a href="/wiki/Narrow_gauge_railway" title="Narrow gauge railway">narrow gauge railway</a> in <a href="/wiki/County_Cork" title="County Cork">County Cork</a>, <a href="/wiki/Ireland" title="Ireland">Ireland</a>. It opened in 1886 and closed in 1947. The track gauge was a <a href="/wiki/Three_foot_gauge_railways" title="Three foot gauge railways"></a> <a href="/wiki/Narrow_gauge_railway" title="Narrow gauge railway">narrow gauge</a>. The formal name of the company was .</p>
+http://en.wikipedia.org/wiki/Narrow_gauge_railway
+<p>A <b>narrow gauge railway</b> is a <a class="mw-redirect" href="/wiki/Railway" title="Railway">railway</a> that has a <a href="/wiki/Track_gauge" title="Track gauge">track gauge</a> narrower than the  of <a href="/wiki/Standard_gauge" title="Standard gauge">standard gauge</a> railways. Most existing narrow gauge railways have gauges of between  and .</p>
+http://en.wikipedia.org/wiki/Railway
+<p><b>Rail transport</b> is a means of <a href="/wiki/Transport" title="Transport">conveyance of passengers and goods</a>, by way of wheeled vehicles running on <a href="/wiki/Track_(rail_transport)" title="Track">rails</a>. It is also commonly referred to as train transport. In contrast to <a href="/wiki/Road_transport" title="Road transport">road transport</a>, where vehicles merely run on a prepared surface, rail vehicles are also directionally guided by the tracks on which they run. Track usually consists of <a href="/wiki/Steel" title="Steel">steel</a> rails installed on <a href="/wiki/Railroad_tie" title="Railroad tie">sleepers/ties</a> and <a href="/wiki/Track_ballast" title="Track ballast">ballast</a>, on which the <a href="/wiki/Rolling_stock" title="Rolling stock">rolling stock</a>, usually fitted with metal <a href="/wiki/Wheel" title="Wheel">wheels</a>, moves. However, other variations are also possible, such as slab track where the rails are fastened to a concrete foundation resting on a prepared subsurface.</p>
+http://en.wikipedia.org/wiki/Transport
+<p><b>Transport</b> or <b>transportation</b> is the movement of people, animals and <a href="/wiki/Cargo" title="Cargo">goods</a> from one location to another. <a class="mw-redirect" href="/wiki/Modes_of_transport" title="Modes of transport">Modes of transport</a> include <a href="/wiki/Aviation" title="Aviation">air</a>, <a href="/wiki/Rail_transport" title="Rail transport">rail</a>, <a href="/wiki/Road_transport" title="Road transport">road</a>, <a href="/wiki/Ship_transport" title="Ship transport">water</a>, <a href="/wiki/Cable_transport" title="Cable transport">cable</a>, <a href="/wiki/Pipeline_transport" title="Pipeline transport">pipeline</a> and <a class="mw-redirect" href="/wiki/Space_transport" title="Space transport">space</a>. The field can be divided into <a href="/wiki/Infrastructure" title="Infrastructure">infrastructure</a>, <a href="/wiki/Vehicle" title="Vehicle">vehicles</a> and <a href="/wiki/Business_operations" title="Business operations">operations</a>. Transport is important because it enables trade between people, which is essential for the development of civilizations.</p>
+http://en.wikipedia.org/wiki/Cargo
+<p><b>Cargo</b> is <a href="/wiki/Good_(economics)" title="Good">goods</a> or <a href="/wiki/Produce" title="Produce">produce</a> transported, generally for <a href="/wiki/Commerce" title="Commerce">commercial</a> gain, by <a href="/wiki/Cargo_ship" title="Cargo ship">ship</a> or <a href="/wiki/Cargo_airline" title="Cargo airline">aircraft</a>, although the term is now extended to intermodal <a href="/wiki/Train#Freight_trains" title="Train">train</a>, <a href="/wiki/Van" title="Van">van</a> or <a href="/wiki/Truck" title="Truck">truck</a>. In modern times, <a href="/wiki/Intermodal_container" title="Intermodal container">containers</a> are used in most long-haul cargo <a href="/wiki/Transport" title="Transport">transport</a>.</p>
+http://en.wikipedia.org/wiki/Good_(economics)
+<p>In <a href="/wiki/Economics" title="Economics">economics</a>, a <b>good</b> is a material that satisfies human <a href="/wiki/Want" title="Want">wants</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> and provides <a href="/wiki/Utility" title="Utility">utility</a>, for example, to a <a href="/wiki/Consumer" title="Consumer">consumer</a> making a purchase. A common distinction is made between 'goods' that are <a href="/wiki/Tangible_property" title="Tangible property">tangible property</a> and <a href="/wiki/Service_(economics)" title="Service">services</a>, which are non-physical.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup> <a class="mw-redirect" href="/wiki/Commodities" title="Commodities">Commodities</a> may be used as a <a href="/wiki/Synonym" title="Synonym">synonym</a> for economic goods but often refer to marketable <a class="mw-redirect" href="/wiki/Raw_materials" title="Raw materials">raw materials</a> and <a class="mw-redirect" href="/wiki/Primary_products" title="Primary products">primary products</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup></p>
+http://en.wikipedia.org/wiki/Economics
+<p>Economics is the social science that studies how rational individuals, groups, and organizations, manage scarce resources, which have alternative uses, to achieve desirable ends. Therefore, we can say that there is an economic problem, subject of study of the economic science, whenever scarce resources, which have alternative uses, are employed, and a decision is made by the resources controlling players, to attain the best possible outcome under bounded rational conditions, in other words, to maximize value subject to the constrains imposed by the information the agents have, the cognitive limitations of their minds, and the finite amount of time they have to make a decision. On the one hand, the continuous interplay done by these economic actors in all markets set the prices for all goods and services which make the rational managing of scarce resources possible in the first place. And on the other hand, the decisions made by the same actors, while pursuing their own interest, determine the level of output, consumption, savings, and investment in an economy, as well as the remuneration paid to the owners of labor, capital and land.</p>
+<p>The term  comes from the <a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient Greek</a>  from  and , hence "rules of the house(hold) for good management".<sup class="reference" id="cite_ref-etymology_1-0"><a href="#cite_note-etymology-1">1</a></sup> <a href="/wiki/Political_economy" title="Political economy">Political economy</a> was the earlier name for the subject, but economists in the late 19th century suggested "economics" as a shorter term for "economic science" that also avoided a narrow  connotation and as similar in form to "<a href="/wiki/Mathematics" title="Mathematics">mathematics</a>", "ethics", and so forth.<sup class="reference" id="cite_ref-MarshallJevons_2-0"><a href="#cite_note-MarshallJevons-2">2</a></sup></p>
+http://en.wikipedia.org/wiki/Ancient_Greek
+<p><b>Ancient Greek</b> is the form of <a href="/wiki/Greek_language" title="Greek language">Greek</a> used during the periods of time spanning c. the 9th – 6th century BC, c. the 5th – 4th century BC, and c. the 3rd century BC – 6th century AD in <a href="/wiki/Ancient_Greece" title="Ancient Greece">ancient Greece</a> and the <a href="/wiki/Classical_antiquity" title="Classical antiquity">ancient world</a>. It was predated in the 2nd millennium BC by <a class="mw-redirect" href="/wiki/Mycenaean_Greek_language" title="Mycenaean Greek language">Mycenaean Greek</a>. The language of the Hellenistic phase is known as <a href="/wiki/Koine_Greek" title="Koine Greek">Koine</a> or Biblical Greek, while the language from the late period onward features no considerable differences from <a href="/wiki/Medieval_Greek" title="Medieval Greek">Medieval Greek</a>. <a href="/wiki/Koine_Greek" title="Koine Greek">Koine</a> is regarded as a separate historical stage of its own, although in its earlier form, it closely resembled the Classical. Prior to the Koine period, Greek of the classic and earlier periods included several regional <a href="/wiki/Ancient_Greek_dialects" title="Ancient Greek dialects">dialects</a>.</p>
+http://en.wikipedia.org/wiki/Greek_language
+<p><b>Greek</b> is an independent branch of the <a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European</a> family of languages. Native to the southern <a href="/wiki/Balkans" title="Balkans">Balkans</a>, western <a class="mw-redirect" href="/wiki/Asia_Minor" title="Asia Minor">Asia Minor</a>, <a href="/wiki/Greece" title="Greece">Greece</a>, and the <a href="/wiki/Aegean_Islands" title="Aegean Islands">Aegean Islands</a>, it has the longest documented history of any Indo-European language, spanning 34 centuries of written records. Its writing system has been the <a href="/wiki/Greek_alphabet" title="Greek alphabet">Greek alphabet</a> for the majority of its history; other systems, such as <a href="/wiki/Linear_B" title="Linear B">Linear B</a> and the <a href="/wiki/Cypriot_syllabary" title="Cypriot syllabary">Cypriot syllabary</a>, were previously used. The alphabet arose from the <a href="/wiki/Phoenician_alphabet" title="Phoenician alphabet">Phoenician script</a> and was in turn the basis of the <a href="/wiki/Latin_script" title="Latin script">Latin</a>, <a href="/wiki/Cyrillic_script" title="Cyrillic script">Cyrillic</a>, <a href="/wiki/Coptic_alphabet" title="Coptic alphabet">Coptic</a>, and many other writing systems.</p>
+http://en.wikipedia.org/wiki/Indo-European_languages
+<p>The <b>Indo-European languages</b> are a <a href="/wiki/Language_family" title="Language family">family</a> of several hundred related <a href="/wiki/List_of_Indo-European_languages" title="List of Indo-European languages">languages and dialects</a>. There are about 439 languages and dialects, according to the 2009 <a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a> estimate, about half belonging to the <a href="/wiki/Indo-Aryan_languages" title="Indo-Aryan languages">Indo-Aryan</a> subbranch.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> It includes most major current <a href="/wiki/Languages_of_Europe" title="Languages of Europe">languages of Europe</a>, the <a href="/wiki/Iranian_plateau" title="Iranian plateau">Iranian plateau</a>, and the <a href="/wiki/Languages_of_South_Asia" title="Languages of South Asia">Indian Subcontinent</a>, and was also predominant in ancient <a href="/wiki/Anatolia" title="Anatolia">Anatolia</a>. With written attestations appearing since the <a href="/wiki/Bronze_Age" title="Bronze Age">Bronze Age</a> in the form of the <a href="/wiki/Anatolian_languages" title="Anatolian languages">Anatolian languages</a> and <a href="/wiki/Mycenaean_Greek" title="Mycenaean Greek">Mycenaean Greek</a>, the Indo-European family is significant to the field of <a href="/wiki/Historical_linguistics" title="Historical linguistics">historical linguistics</a> as possessing the second-longest <a href="/wiki/Recorded_history" title="Recorded history">recorded history</a>, after the <a href="/wiki/Afroasiatic_languages" title="Afroasiatic languages">Afro-Asiatic family</a>.</p>
+http://en.wikipedia.org/wiki/Language_family
+<p>A <b>language family</b> is a group of <a href="/wiki/Language" title="Language">languages</a> related through <a class="mw-redirect" href="/wiki/Genetic_(linguistics)" title="Genetic">descent</a> from a common ancestor, called the <a href="/wiki/Proto-language" title="Proto-language">proto-language</a> of that family. The term 'family' comes from the <a href="/wiki/Tree_model" title="Tree model">tree model</a> of language origination in <a href="/wiki/Historical_linguistics" title="Historical linguistics">historical linguistics</a>, which makes use of a metaphor comparing languages to people in a biological <a href="/wiki/Family_tree" title="Family tree">family tree</a>, or in a subsequent modification, to species in a <a href="/wiki/Phylogenetic_tree" title="Phylogenetic tree">phylogenetic tree</a> of evolutionary <a href="/wiki/Taxonomy_(biology)" title="Taxonomy">taxonomy</a>. No actual biological relationship between speakers is implied by the metaphor.</p>
+http://en.wikipedia.org/wiki/Language
+<p><b>Language</b> is the <a href="/wiki/Human" title="Human">human</a> capacity for acquiring and using complex systems of <a href="/wiki/Communication" title="Communication">communication</a>, and <b>a language</b> is any specific example of such a system. The scientific study of language is called <a href="/wiki/Linguistics" title="Linguistics">linguistics</a>.</p>
+http://en.wikipedia.org/wiki/Human
+<p><b>Humans</b> are <a href="/wiki/Primate" title="Primate">primates</a> of the <a href="/wiki/Family_(biology)" title="Family">family</a> <a href="/wiki/Hominidae" title="Hominidae">Hominidae</a>, and the only <a class="extiw" href="//en.wiktionary.org/wiki/extant" title="wikt:extant">extant</a> <a href="/wiki/Species" title="Species">species</a> of the <a href="/wiki/Genus" title="Genus">genus</a> .<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup> Humans are distinguished from other primates by their <a class="mw-redirect" href="/wiki/Bipedal" title="Bipedal">bipedal</a> locomotion, and especially by their relatively <a href="/wiki/Encephalization" title="Encephalization">larger</a> <a href="/wiki/Human_brain" title="Human brain">brain</a> with its particularly well developed <a href="/wiki/Neocortex" title="Neocortex">neocortex</a>, <a href="/wiki/Prefrontal_cortex" title="Prefrontal cortex">prefrontal cortex</a> and <a href="/wiki/Temporal_lobe" title="Temporal lobe">temporal lobes</a>, which enable high levels of abstract <a class="mw-redirect" href="/wiki/Reasoning" title="Reasoning">reasoning</a>, <a href="/wiki/Language" title="Language">language</a>, <a href="/wiki/Problem_solving" title="Problem solving">problem solving</a>, and <a href="/wiki/Culture" title="Culture">culture</a> through social learning. Humans use <a href="/wiki/Tool" title="Tool">tools</a> to a much higher degree than any other animal, and are the only extant species known to build <a href="/wiki/Fire" title="Fire">fires</a> and <a href="/wiki/Cooking" title="Cooking">cook their food</a>, as well as the only known species to <a href="/wiki/Clothing" title="Clothing">clothe</a> themselves and create and use numerous other <a href="/wiki/Technology" title="Technology">technologies</a> and <a href="/wiki/Art" title="Art">arts</a>. The scientific study of humans is the discipline of <a href="/wiki/Anthropology" title="Anthropology">anthropology</a>.</p>
+http://en.wikipedia.org/wiki/Primate
+<p>A <b>primate</b> is a <a href="/wiki/Mammal" title="Mammal">mammal</a> of the <a href="/wiki/Order_(biology)" title="Order">order</a> <b>Primates</b>,.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup> In <a href="/wiki/Taxonomy_(biology)" title="Taxonomy">taxonomy</a>, primates include <a class="mw-redirect" href="/wiki/Prosimians" title="Prosimians">prosimians</a> and <a href="/wiki/Simian" title="Simian">simians</a>.<sup class="reference" id="cite_ref-Goodman2_4-0"><a href="#cite_note-Goodman2-4">4</a></sup> Primates arose from ancestors that lived in the trees of tropical forests; many primate characteristics represent adaptations to life in this challenging three-dimensional environment. Most primate species remain at least partly <a class="mw-redirect" href="/wiki/Arboreal" title="Arboreal">arboreal</a>.</p>
+http://en.wikipedia.org/wiki/Mammal
+<p><b>Mammals</b>" title="Class">class</a> <b>Mammalia</b> ) are a <a href="/wiki/Clade" title="Clade">clade</a> of <a href="/wiki/Endotherm" title="Endotherm">endothermic</a> <a href="/wiki/Amniote" title="Amniote">amniotes</a> distinguished from the <a href="/wiki/Reptile" title="Reptile">reptiles</a> and the <a href="/wiki/Bird" title="Bird">birds</a> by the possession of <a href="/wiki/Hair" title="Hair">hair</a>, three <a href="/wiki/Ossicles" title="Ossicles">middle ear bones</a>, <a href="/wiki/Mammary_gland" title="Mammary gland">mammary glands</a> in females, and a <a href="/wiki/Neocortex" title="Neocortex">neocortex</a>. The mammalian brain regulates body temperature and the <a href="/wiki/Circulatory_system" title="Circulatory system">circulatory system</a>, including the four-chambered <a href="/wiki/Heart" title="Heart">heart</a>. The mammals include the largest animals on the planet, the <a href="/wiki/Rorqual" title="Rorqual">rorquals</a> and some other whales, as well as some of the most intelligent, such as <a href="/wiki/Elephant" title="Elephant">elephants</a>, some <a href="/wiki/Primate" title="Primate">primates</a> and some <a class="mw-redirect" href="/wiki/Cetacean" title="Cetacean">cetaceans</a>. The basic body type is a four-legged land-borne animal, but some mammals are adapted for <a href="/wiki/Marine_mammal" title="Marine mammal">life at sea</a>, in the air, in the trees, or on two legs. The largest group of mammals, the <a href="/wiki/Eutheria" title="Eutheria">placentals</a>, have a <a href="/wiki/Placenta" title="Placenta">placenta</a> which feeds the offspring during pregnancy. Mammals range in size from the 30–40 mm <a class="mw-redirect" href="/wiki/Bumblebee_bat" title="Bumblebee bat">bumblebee bat</a> to the 33-meter <a href="/wiki/Blue_whale" title="Blue whale">blue whale</a>.</p>
+http://en.wikipedia.org/wiki/Clade
+<p>A <b>clade</b> or <b>monophylum</b> is a group consisting of an ancestor and all its descendants, a single "branch" on the "<a class="mw-redirect" href="/wiki/Tree_of_life_(science)" title="Tree of life">tree of life</a>".<sup class="reference" id="cite_ref-Dupuis_1-0"><a href="#cite_note-Dupuis-1">1</a></sup> The ancestor may be an individual, a population or even a <a href="/wiki/Species" title="Species">species</a>. Many familiar groups, <a href="/wiki/Rodent" title="Rodent">rodents</a> and <a href="/wiki/Insect" title="Insect">insects</a> for example, are clades; others, like <a href="/wiki/Lizard" title="Lizard">lizards</a> and <a href="/wiki/Monkey" title="Monkey">monkeys</a>, are not.</p>
+http://en.wikipedia.org/wiki/Tree_of_life_(science)
+<p>The <b>tree of life</b> is a <a href="/wiki/Metaphor" title="Metaphor">metaphor</a> used to describe the relationships between organisms, both living and extinct. Its use dates back to at least the early 1800s. It was employed by <a href="/wiki/Charles_Darwin" title="Charles Darwin">Charles Darwin</a> to express the concept of the branching divergence of varieties and then species in a process of <a href="/wiki/Common_descent" title="Common descent">common descent</a> from ancestors. <a href="/wiki/Ernst_Haeckel" title="Ernst Haeckel">Ernst Haeckel</a> coined the term <a class="mw-redirect" href="/wiki/Phylogeny" title="Phylogeny">phylogeny</a> for the evolutionary relationships of species through time, and went further than Darwin in proposing phylogenic histories of life. The modern development of this idea is called the <a href="/wiki/Phylogenetic_tree" title="Phylogenetic tree">phylogenetic tree</a>.</p>
+http://en.wikipedia.org/wiki/Metaphor
+<p>A <b>metaphor</b> is a <a href="/wiki/Figure_of_speech" title="Figure of speech">figure of speech</a> that describes a subject by asserting that it is, on some point of comparison, the same as another otherwise unrelated object. Metaphor is a type of <a href="/wiki/Analogy" title="Analogy">analogy</a> and is closely related to other <a href="/wiki/Rhetoric" title="Rhetoric">rhetorical</a> <a href="/wiki/Literal_and_figurative_language" title="Literal and figurative language">figures of speech</a> that achieve their effects via association, comparison or resemblance including <a href="/wiki/Allegory" title="Allegory">allegory</a>, <a href="/wiki/Hyperbole" title="Hyperbole">hyperbole</a>, and <a href="/wiki/Simile" title="Simile">simile</a>.</p>
+http://en.wikipedia.org/wiki/Figure_of_speech
+<p>A <b>figure of speech</b> is the use of a <a href="/wiki/Word" title="Word">word</a> or a <a href="/wiki/Phrase" title="Phrase">phrase</a>, which transcends its literal interpretation. It can be a special repetition, arrangement or omission of words with literal meaning, or a <a href="/wiki/Phrase" title="Phrase">phrase</a> with a specialized meaning not based on the literal meaning of the words in it, as in <a href="/wiki/Idiom" title="Idiom">idiom</a>, <a href="/wiki/Metaphor" title="Metaphor">metaphor</a>, <a href="/wiki/Simile" title="Simile">simile</a>, <a href="/wiki/Hyperbole" title="Hyperbole">hyperbole</a>, <a class="mw-redirect" href="/wiki/Personification" title="Personification">personification</a>, or <a href="/wiki/Synecdoche" title="Synecdoche">synecdoche</a>. Figures of speech often provide emphasis, freshness of expression, or clarity. However, clarity may also suffer from their use, as any figure of speech introduces an ambiguity between literal and figurative interpretation. A figure of speech is sometimes called a <a class="mw-redirect" href="/wiki/Rhetorical_figure" title="Rhetorical figure">rhetorical figure</a> or a locution.</p>
+http://en.wikipedia.org/wiki/Word
+<p>In <a href="/wiki/Linguistics" title="Linguistics">linguistics</a>, a <b>word</b> is the smallest element that may be uttered in isolation with <a class="mw-redirect" href="/wiki/Semantic" title="Semantic">semantic</a> or <a href="/wiki/Pragmatics" title="Pragmatics">pragmatic</a> content" title="Meaning">meaning</a>). This contrasts with a <a href="/wiki/Morpheme" title="Morpheme">morpheme</a>, which is the smallest unit of meaning but will not necessarily stand on its own. A word may consist of a single morpheme, or several, whereas a morpheme may not be able to stand on its own as a word. A complex word will typically include a <a href="/wiki/Root_(linguistics)" title="Root">root</a> and one or more <a href="/wiki/Affix" title="Affix">affixes</a>, or more than one root in a <a class="mw-redirect" href="/wiki/Compound_word" title="Compound word">compound</a>. Words can be put together to build larger elements of <a href="/wiki/Language" title="Language">language</a>, such as <a href="/wiki/Phrase" title="Phrase">phrases</a>, <a href="/wiki/Clause" title="Clause">clauses</a>, and <a href="/wiki/Sentence_(linguistics)" title="Sentence">sentences</a>.</p>
+http://en.wikipedia.org/wiki/Linguistics
+<p><b>Linguistics</b> is the <a href="/wiki/Science" title="Science">scientific</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> study of <a href="/wiki/Language" title="Language">language</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup> There are broadly three aspects to the study, which include language form, language meaning, and language in context.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup> The earliest known activities in the <a class="mw-redirect" href="/wiki/Descriptive_linguistics" title="Descriptive linguistics">description of language</a> have been attributed to <a href="/wiki/P%C4%81%E1%B9%87ini" title="Pāṇini">Pāṇini</a> around 500 BCE, with his analysis of <a href="/wiki/Sanskrit" title="Sanskrit">Sanskrit</a> in .<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup></p>
+http://en.wikipedia.org/wiki/Science
+<p><b>Science</b> is a systematic enterprise that builds and organizes <a href="/wiki/Knowledge" title="Knowledge">knowledge</a> in the form of testable explanations and predictions about the <a href="/wiki/Universe" title="Universe">universe</a>.<sup class="reference" id="cite_ref-wilson_2-0"><a href="#cite_note-wilson-2">2</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup> In an older and closely related meaning, "science" also refers to a body of knowledge itself, of the type that can be rationally explained and reliably applied. A practitioner of science is known as a <a href="/wiki/Scientist" title="Scientist">scientist</a>.</p>
 http://en.wikipedia.org/wiki/Knowledge
+<p><b>Knowledge</b> is a familiarity with someone or something, which can include <a href="/wiki/Fact" title="Fact">facts</a>, <a href="/wiki/Information" title="Information">information</a>, <a href="/wiki/Description" title="Description">descriptions</a>, or <a class="mw-redirect" href="/wiki/Skills" title="Skills">skills</a> acquired through <a href="/wiki/Experience" title="Experience">experience</a> or <a href="/wiki/Education" title="Education">education</a>. It can refer to the theoretical or practical understanding of a subject. It can be implicit or explicit; it can be more or less formal or systematic.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> In <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, the study of knowledge is called <a href="/wiki/Epistemology" title="Epistemology">epistemology</a>; the philosopher <a href="/wiki/Plato" title="Plato">Plato</a> famously defined knowledge as "<a href="/wiki/Justified_true_belief" title="Justified true belief">justified true belief</a>." However, no single agreed upon definition of knowledge exists, though there are numerous theories to explain it.</p>
 http://en.wikipedia.org/wiki/Fact
+<p>A <b>fact</b> is something that has really occurred or is actually the case. The usual test for a statement of fact is verifiability, that is whether it can be <a href="/wiki/Proof_(truth)" title="Proof">proven</a> to correspond to <a href="/wiki/Experience" title="Experience">experience</a>. Standard reference works are often used to check facts. <a href="/wiki/Science" title="Science">Scientific</a> facts are verified by repeatable <a href="/wiki/Experiment" title="Experiment">experiments</a>.</p>
 http://en.wikipedia.org/wiki/Proof_(truth)
+<p>A <b>proof</b> is <a href="/wiki/Necessity_and_sufficiency" title="Necessity and sufficiency">sufficient</a> <a href="/wiki/Evidence" title="Evidence">evidence</a> or an <a href="/wiki/Argument" title="Argument">argument</a> for the <a href="/wiki/Truth" title="Truth">truth</a> of a <a href="/wiki/Proposition" title="Proposition">proposition</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup></p>
 http://en.wikipedia.org/wiki/Necessity_and_sufficiency
+<p>In <a href="/wiki/Logic" title="Logic">logic</a>, <b>necessity</b> and <b>sufficiency</b> are implicational relationships between <a href="/wiki/Statement_(logic)" title="Statement">statements</a>.<sup class="Template-Fact" style="white-space:nowrap;">[]</sup> The assertion that one statement is a  <a href="/wiki/Condition_(philosophy)" title="Condition">condition</a> of another means that the former statement is true <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a> the latter is true. That is, the two statements must be either simultaneously true or simultaneously false. In <a class="mw-redirect" href="/wiki/Ordinary_English" title="Ordinary English">ordinary English</a>, ‘necessary’ and ‘sufficient’ indicate relations between <a href="/wiki/Condition_(philosophy)" title="Condition">conditions</a> or states of affairs, not statements. Being male sibling is a necessary and sufficient condition for being a brother. Fred’s being a male sibling is necessary and sufficient for the truth of the statement that Fred is a brother.</p>
 http://en.wikipedia.org/wiki/Logic
+<p><b>Logic</b><sup class="reference" id="cite_ref-argumentative_1-0"><a href="#cite_note-argumentative-1">1</a></sup> has two meanings: first, it describes the use of valid <a class="mw-redirect" href="/wiki/Reasoning" title="Reasoning">reasoning</a> in some activity; second, it names the <a href="/wiki/Normative" title="Normative">normative</a> study of reasoning or a branch thereof.<sup class="reference" id="cite_ref-PopkinStroll1993_2-0"><a href="#cite_note-PopkinStroll1993-2">2</a></sup><sup class="reference" id="cite_ref-jacquette2002_3-0"><a href="#cite_note-jacquette2002-3">3</a></sup> In the latter sense, it features most prominently in the subjects of <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Computer_science" title="Computer science">computer science</a>.</p>
 http://en.wikipedia.org/wiki/Reasoning
+<p><b>Reason</b> is the capacity for <a href="/wiki/Consciousness" title="Consciousness">consciously</a> making sense of things, applying <a href="/wiki/Logic" title="Logic">logic</a>, for establishing and verifying <a href="/wiki/Fact" title="Fact">facts</a>, and changing or justifying practices, institutions, and <a href="/wiki/Belief" title="Belief">beliefs</a> based on new or existing information.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> It is closely associated with such characteristically <a href="/wiki/Human" title="Human">human</a> activities as <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, <a href="/wiki/Science" title="Science">science</a>, <a href="/wiki/Language" title="Language">language</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Art" title="Art">art</a>, and is normally considered to be a definitive characteristic of <a href="/wiki/Human_nature" title="Human nature">human nature</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup> The concept of reason is sometimes referred to as <a href="/wiki/Rationality" title="Rationality">rationality</a> and sometimes as <b>discursive reason</b>, in opposition to <a href="/wiki/Intuition_(psychology)" title="Intuition">intuitive reason</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup></p>
 http://en.wikipedia.org/wiki/Consciousness
+<p><b>Consciousness</b> is the <a href="/wiki/Quality_(philosophy)" title="Quality">quality</a> or state of being aware of an external object or something within oneself.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup><sup class="reference" id="cite_ref-van_Gulick2004_2-0"><a href="#cite_note-van_Gulick2004-2">2</a></sup> It has been defined as: <a href="/wiki/Sentience" title="Sentience">sentience</a>, <a href="/wiki/Awareness" title="Awareness">awareness</a>, <a href="/wiki/Subjectivity" title="Subjectivity">subjectivity</a>, the ability to <a href="/wiki/Experience" title="Experience">experience</a> or to <a href="/wiki/Feeling" title="Feeling">feel</a>, wakefulness, having a sense of <a href="/wiki/Self" title="Self">selfhood</a>, and the executive control system of the mind.<sup class="reference" id="cite_ref-Farthing1992Psychology_3-0"><a href="#cite_note-Farthing1992Psychology-3">3</a></sup> Despite the difficulty in definition, many philosophers believe that there is a broadly shared underlying intuition about what consciousness is.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup> As <a href="/wiki/Max_Velmans" title="Max Velmans">Max Velmans</a> and Susan Schneider wrote in : "Anything that we are aware of at a given moment forms part of our consciousness, making conscious experience at once the most familiar and most mysterious aspect of our lives."<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">5</a></sup></p>
 http://en.wikipedia.org/wiki/Quality_(philosophy)
+<p>A <b>quality</b><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> is an attribute or a <a href="/wiki/Property_(philosophy)" title="Property">property</a>. Attributes are ascribable, by a subject, whereas properties are possessible.<sup class="reference" id="cite_ref-Cargile.2C_1995_2-0"><a href="#cite_note-Cargile.2C_1995-2">2</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[]</sup> In contemporary <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> the idea of qualities, and especially how to distinguish certain kinds of qualities from one another, remains controversial.<sup class="reference" id="cite_ref-Cargile.2C_1995_2-1"><a href="#cite_note-Cargile.2C_1995-2">2</a></sup></p>
 http://en.wikipedia.org/wiki/Property_(philosophy)
+<p>In <a href="/wiki/Modern_philosophy" title="Modern philosophy">modern philosophy</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Logic" title="Logic">logic</a>, a <b>property</b> is an attribute of an <a href="/wiki/Object_(philosophy)" title="Object">object</a>; a red object is said to have the property of redness. The property may be considered a form of object in its own right, able to possess other properties. A property however differs from individual objects in that it may be instantiated, and often in more than one thing. It differs from the logical/mathematical concept of <a href="/wiki/Class_(set_theory)" title="Class">class</a> by not having any concept of <a href="/wiki/Extensionality" title="Extensionality">extensionality</a>, and from the philosophical concept of <a href="/wiki/Class_(philosophy)" title="Class">class</a> in that a property is considered to be distinct from the objects which possess it. Understanding how different individual entities can in some sense have some of the same properties is the basis of the <a href="/wiki/Problem_of_universals" title="Problem of universals">problem of universals</a>. The terms <b>attribute</b> and <b>quality</b> have similar meanings.</p>
 http://en.wikipedia.org/wiki/Modern_philosophy
+<p><b>Modern philosophy</b> is a category of <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> that originated in <a href="/wiki/Western_Europe" title="Western Europe">Western Europe</a> in the 17th century, and is now common worldwide. It is not a specific doctrine or school, although there are certain assumptions common to much of it, which helps to distinguish it from earlier <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup></p>
 http://en.wikipedia.org/wiki/Philosophy
-18 hops
-Test 38
-http://en.wikipedia.org/wiki/Trick_or_treat_(disambiguation)
-http://en.wikipedia.org/wiki/Trick_or_treat
-http://en.wikipedia.org/wiki/Convention_(norm)
-http://en.wikipedia.org//en.wiktionary.org/wiki/agreement
+33 hops
+Test 4
+http://en.wikipedia.org/wiki/Guas%C3%BA_Front
+<p>The <b>Guasú Front</b> is a <a href="/wiki/Left-wing_politics" title="Left-wing politics">left-wing</a> <a href="/wiki/Electoral_alliance" title="Electoral alliance">electoral alliance</a> in <a href="/wiki/Paraguay" title="Paraguay">Paraguay</a> for the <a href="/wiki/Paraguayan_general_election,_2013" title="Paraguayan general election, 2013">general election in 2013</a>. It was formed in 2010 by a merger of the centre-left <a href="/wiki/Patriotic_Alliance_for_Change" title="Patriotic Alliance for Change">Patriotic Alliance for Change</a> and the far-left <a class="new" href="/w/index.php?title=Unitary_Space_%E2%80%93_People%27s_Congress&amp;action=edit&amp;redlink=1" title="Unitary Space – People's Congress">Unitary Space – People's Congress</a>. It consists of eleven parties, including the <a href="/wiki/Party_for_a_Country_of_Solidarity" title="Party for a Country of Solidarity">Party for a Country of Solidarity</a> and the <a href="/wiki/Paraguayan_Communist_Party" title="Paraguayan Communist Party">Paraguayan Communist Party</a>. It is led by impeached former president <a href="/wiki/Fernando_Lugo" title="Fernando Lugo">Fernando Lugo</a>, who also ran as a senatorial candidate. Its presidential candidate was <a href="/wiki/An%C3%ADbal_Carrillo" title="Aníbal Carrillo">Aníbal Carrillo</a>.</p>
+http://en.wikipedia.org/wiki/Left-wing_politics
+<p>In <a class="mw-redirect" href="/wiki/Left-right_politics" title="Left-right politics">left-right politics</a>, <b>left-wing politics</b> are political positions or activities that accept or support <a href="/wiki/Social_equality" title="Social equality">social equality</a>, often in opposition to <a class="mw-redirect" href="/wiki/Social_hierarchy" title="Social hierarchy">social hierarchy</a> and <a href="/wiki/Social_inequality" title="Social inequality">social inequality</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup><sup class="reference" id="cite_ref-Lukes_3-0"><a href="#cite_note-Lukes-3">3</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup> It typically involves a concern for those in society who are perceived as disadvantaged relative to others and an assumption that there are unjustified inequalities that need to be reduced or abolished.<sup class="reference" id="cite_ref-Lukes_3-1"><a href="#cite_note-Lukes-3">3</a></sup></p>
+http://en.wikipedia.org/wiki/Left-right_politics
+<p>The <b>left-right</b> <a href="/wiki/Political_spectrum" title="Political spectrum">political spectrum</a> is a system of classifying political positions, <a href="/wiki/Ideology" title="Ideology">ideologies</a> and <a href="/wiki/Political_party" title="Political party">parties</a>. <a href="/wiki/Left-wing_politics" title="Left-wing politics">Left-wing politics</a> and <a href="/wiki/Right-wing_politics" title="Right-wing politics">right-wing politics</a> are often presented as opposed, although a particular individual or group may take a left-wing stance on one matter and a right-wing stance on another. In France, where the terms originated,  has been called "the party of movement" and  "the party of order."<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup> The intermediate stance is called <a href="/wiki/Centrism" title="Centrism">centrism</a> and a person with such a position is a <b>moderate</b>.</p>
+http://en.wikipedia.org/wiki/Political_spectrum
+<p>A <b>political spectrum</b> is a system of classifying different <a href="/wiki/Politics" title="Politics">political</a> positions upon one or more <a href="/wiki/Geometry" title="Geometry">geometric</a> <a class="mw-redirect" href="/wiki/Coordinate_axis" title="Coordinate axis">axes</a> that symbolize independent political dimensions.</p>
+http://en.wikipedia.org/wiki/Politics
+<p><b>Politics</b> is the practice and theory of influencing other people on a civic or individual level. More narrowly, it refers to achieving and exercising positions of <a href="/wiki/Governance" title="Governance">governance</a> — organized control over a human community, particularly a <a href="/wiki/State_(polity)" title="State">state</a>. A variety of methods are employed in politics, which include promoting one's own political views among people, <a href="/wiki/Negotiation" title="Negotiation">negotiation</a> with other political subjects, making <a href="/wiki/Law" title="Law">laws</a>, and exercising <a href="/wiki/Force_(law)" title="Force">force</a>, including <a class="mw-redirect" href="/wiki/Warfare" title="Warfare">warfare</a> against adversaries. Politics is exercised on a wide range of social levels, from <a class="mw-redirect" href="/wiki/Clans" title="Clans">clans</a> and <a class="mw-redirect" href="/wiki/Tribes" title="Tribes">tribes</a> of traditional societies, through modern <a href="/wiki/Local_government" title="Local government">local governments</a>, <a href="/wiki/Company" title="Company">companies</a> and institutions up to <a href="/wiki/Sovereign_state" title="Sovereign state">sovereign states</a>, to the <a class="mw-redirect" href="/wiki/International_politics" title="International politics">international level</a>.</p>
+http://en.wikipedia.org/wiki/Governance
+<p><b>Governance</b> refers to "all processes of governing, whether undertaken by a government, market, or network, whether over a family, tribe, formal or informal organization, or territory, and whether through laws, norms, power, or language."<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> It relates to processes and decisions that seek to define actions, grant power, and verify performance.</p>
+<p>In general terms, governance occurs in three broad ways:<sup class="Template-Fact" style="white-space:nowrap;">[]</sup></p>
+<p>To distinguish the term  from govern: "governance" is the concrete activity that reproduces a formal or informal organization. If the organization is a formal one, governance is primarily about what the relevant "governing body" does. If the organization is an informal one, such as a market, governance is primarily about the rules and norms that guide the relevant activity. Whether the organization is a geo-political entity, a corporate entity, a socio-political entity, or an informal one, its governance is the way the rules and actions are produced, sustained, and regulated.</p>
+<p></p>
+<p></p>
+<p>The word  derives from the Greek verb κυβερνάω [] which means  and was used for the first time in a metaphorical sense by Plato. It then passed on to <a href="/wiki/Latin" title="Latin">Latin</a> and then on to many languages.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup></p>
+http://en.wikipedia.org/wiki/Latin
+<p><b>Latin</b> is an <a href="/wiki/Classical_antiquity" title="Classical antiquity">ancient</a> <a href="/wiki/Italic_languages" title="Italic languages">Italic language</a><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup> originally spoken by the <a href="/wiki/List_of_ancient_Italic_peoples" title="List of ancient Italic peoples">Italic</a> <a href="/wiki/Latins_(Italic_tribe)" title="Latins">Latins</a> in <a href="/wiki/Latium" title="Latium">Latium</a> and <a href="/wiki/Ancient_Rome" title="Ancient Rome">Ancient Rome</a>. Along with most <a href="/wiki/Languages_of_Europe" title="Languages of Europe">European languages</a>, it is a descendant of the ancient <a href="/wiki/Proto-Indo-European_language" title="Proto-Indo-European language">Proto-Indo-European language</a>. Influenced by the <a href="/wiki/Etruscan_language" title="Etruscan language">Etruscan language</a> and using the <a class="mw-redirect" href="/wiki/Greek_Alphabet" title="Greek Alphabet">Greek Alphabet</a> as a basis, it took form as what is recognizable as Latin in the <a href="/wiki/Italy" title="Italy">Italian peninsula</a>. Modern <a href="/wiki/Romance_languages" title="Romance languages">Romance languages</a> are continuations of dialectal forms of the language. Additionally many students, scholars, and some members of the <a href="/wiki/Minister_(Christianity)" title="Minister">Christian clergy</a> speak it fluently, and it is still taught in some primary, secondary and post-secondary educational institutions around the world.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup></p>
+http://en.wikipedia.org/wiki/Classical_antiquity
+<p><b>Classical antiquity</b> is a broad term for a long period of cultural <a href="/wiki/History" title="History">history</a> centered on the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a>, comprising the interlocking civilizations of <a href="/wiki/Ancient_Greece" title="Ancient Greece">ancient Greece</a> and <a href="/wiki/Ancient_Rome" title="Ancient Rome">ancient Rome</a>, collectively known as the <a href="/wiki/Greco-Roman_world" title="Greco-Roman world">Greco-Roman world</a>. It is the period in which Greek and Roman society flourished and wielded great influence throughout Europe, North Africa and the Middle East.</p>
+http://en.wikipedia.org/wiki/History
+<p><b>History</b><sup class="reference" id="cite_ref-JosephJanda_2-0"><a href="#cite_note-JosephJanda-2">2</a></sup> is the study of the past, specifically how it relates to humans.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup> It is an <a href="/wiki/Umbrella_term" title="Umbrella term">umbrella term</a> that relates to past events as well as the discovery, collection, organization, and presentation of <a href="/wiki/Information" title="Information">information</a> about these events. The term includes <a href="/wiki/Universe#History_of_the_Universe" title="Universe">cosmic</a>, <a class="mw-redirect" href="/wiki/Geological_history_of_the_Earth" title="Geological history of the Earth">geologic</a>, and <a href="/wiki/Organism#History_of_life" title="Organism">organic history</a>, but is often generically implied to mean <a href="/wiki/History_of_the_world" title="History of the world">human history</a>. Scholars who write about history are called <a href="/wiki/Historian" title="Historian">historians</a>. Events occurring prior to written record are considered <a href="/wiki/Prehistory" title="Prehistory">prehistory</a>.</p>
+http://en.wikipedia.org/wiki/Umbrella_term
+<p>An <b>umbrella term</b> is a <a href="/wiki/Terminology" title="Terminology">term</a> used to cover a broad number of functions or items that all fall under a single common category.  is also called a <a class="mw-redirect" href="/wiki/Hypernym" title="Hypernym">hypernym</a>. For example,  is an umbrella term that encompasses <a href="/wiki/Cryptography" title="Cryptography">cryptography</a> and <a href="/wiki/Cryptanalysis" title="Cryptanalysis">cryptanalysis</a>, among other fields. Similarly, an <a href="/wiki/Umbrella_organization" title="Umbrella organization">umbrella organization</a> is a central and coordinating body representing a number of smaller, separate bodies.</p>
+http://en.wikipedia.org/wiki/Terminology
+<p><b>Terminology</b> is the study of terms and their use. <b>Terms</b> are <a href="/wiki/Word" title="Word">words</a> and <a class="mw-redirect" href="/wiki/Compound_word" title="Compound word">compound words</a> that in specific contexts are given specific meanings, meanings that may deviate from the meaning the same words have in other contexts and in everyday language. The discipline Terminology studies among other things how such terms of art come to be and their interrelationships within a culture. Terminology differs from <a href="/wiki/Lexicography" title="Lexicography">lexicography</a> in studying concepts, conceptual systems, and their labels, whereas lexicography study words and their meanings.</p>
+http://en.wikipedia.org/wiki/Word
+<p>In <a href="/wiki/Linguistics" title="Linguistics">linguistics</a>, a <b>word</b> is the smallest element that may be uttered in isolation with <a class="mw-redirect" href="/wiki/Semantic" title="Semantic">semantic</a> or <a href="/wiki/Pragmatics" title="Pragmatics">pragmatic</a> content" title="Meaning">meaning</a>). This contrasts with a <a href="/wiki/Morpheme" title="Morpheme">morpheme</a>, which is the smallest unit of meaning but will not necessarily stand on its own. A word may consist of a single morpheme, or several, whereas a morpheme may not be able to stand on its own as a word. A complex word will typically include a <a href="/wiki/Root_(linguistics)" title="Root">root</a> and one or more <a href="/wiki/Affix" title="Affix">affixes</a>, or more than one root in a <a class="mw-redirect" href="/wiki/Compound_word" title="Compound word">compound</a>. Words can be put together to build larger elements of <a href="/wiki/Language" title="Language">language</a>, such as <a href="/wiki/Phrase" title="Phrase">phrases</a>, <a href="/wiki/Clause" title="Clause">clauses</a>, and <a href="/wiki/Sentence_(linguistics)" title="Sentence">sentences</a>.</p>
+http://en.wikipedia.org/wiki/Linguistics
+<p><b>Linguistics</b> is the <a href="/wiki/Science" title="Science">scientific</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> study of <a href="/wiki/Language" title="Language">language</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup> There are broadly three aspects to the study, which include language form, language meaning, and language in context.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup> The earliest known activities in the <a class="mw-redirect" href="/wiki/Descriptive_linguistics" title="Descriptive linguistics">description of language</a> have been attributed to <a href="/wiki/P%C4%81%E1%B9%87ini" title="Pāṇini">Pāṇini</a> around 500 BCE, with his analysis of <a href="/wiki/Sanskrit" title="Sanskrit">Sanskrit</a> in .<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup></p>
+http://en.wikipedia.org/wiki/Science
+<p><b>Science</b> is a systematic enterprise that builds and organizes <a href="/wiki/Knowledge" title="Knowledge">knowledge</a> in the form of testable explanations and predictions about the <a href="/wiki/Universe" title="Universe">universe</a>.<sup class="reference" id="cite_ref-wilson_2-0"><a href="#cite_note-wilson-2">2</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup> In an older and closely related meaning, "science" also refers to a body of knowledge itself, of the type that can be rationally explained and reliably applied. A practitioner of science is known as a <a href="/wiki/Scientist" title="Scientist">scientist</a>.</p>
+http://en.wikipedia.org/wiki/Knowledge
+<p><b>Knowledge</b> is a familiarity with someone or something, which can include <a href="/wiki/Fact" title="Fact">facts</a>, <a href="/wiki/Information" title="Information">information</a>, <a href="/wiki/Description" title="Description">descriptions</a>, or <a class="mw-redirect" href="/wiki/Skills" title="Skills">skills</a> acquired through <a href="/wiki/Experience" title="Experience">experience</a> or <a href="/wiki/Education" title="Education">education</a>. It can refer to the theoretical or practical understanding of a subject. It can be implicit or explicit; it can be more or less formal or systematic.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> In <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, the study of knowledge is called <a href="/wiki/Epistemology" title="Epistemology">epistemology</a>; the philosopher <a href="/wiki/Plato" title="Plato">Plato</a> famously defined knowledge as "<a href="/wiki/Justified_true_belief" title="Justified true belief">justified true belief</a>." However, no single agreed upon definition of knowledge exists, though there are numerous theories to explain it.</p>
+http://en.wikipedia.org/wiki/Fact
+<p>A <b>fact</b> is something that has really occurred or is actually the case. The usual test for a statement of fact is verifiability, that is whether it can be <a href="/wiki/Proof_(truth)" title="Proof">proven</a> to correspond to <a href="/wiki/Experience" title="Experience">experience</a>. Standard reference works are often used to check facts. <a href="/wiki/Science" title="Science">Scientific</a> facts are verified by repeatable <a href="/wiki/Experiment" title="Experiment">experiments</a>.</p>
+http://en.wikipedia.org/wiki/Proof_(truth)
+<p>A <b>proof</b> is <a href="/wiki/Necessity_and_sufficiency" title="Necessity and sufficiency">sufficient</a> <a href="/wiki/Evidence" title="Evidence">evidence</a> or an <a href="/wiki/Argument" title="Argument">argument</a> for the <a href="/wiki/Truth" title="Truth">truth</a> of a <a href="/wiki/Proposition" title="Proposition">proposition</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup></p>
+http://en.wikipedia.org/wiki/Necessity_and_sufficiency
+<p>In <a href="/wiki/Logic" title="Logic">logic</a>, <b>necessity</b> and <b>sufficiency</b> are implicational relationships between <a href="/wiki/Statement_(logic)" title="Statement">statements</a>.<sup class="Template-Fact" style="white-space:nowrap;">[]</sup> The assertion that one statement is a  <a href="/wiki/Condition_(philosophy)" title="Condition">condition</a> of another means that the former statement is true <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a> the latter is true. That is, the two statements must be either simultaneously true or simultaneously false. In <a class="mw-redirect" href="/wiki/Ordinary_English" title="Ordinary English">ordinary English</a>, ‘necessary’ and ‘sufficient’ indicate relations between <a href="/wiki/Condition_(philosophy)" title="Condition">conditions</a> or states of affairs, not statements. Being male sibling is a necessary and sufficient condition for being a brother. Fred’s being a male sibling is necessary and sufficient for the truth of the statement that Fred is a brother.</p>
+http://en.wikipedia.org/wiki/Logic
+<p><b>Logic</b><sup class="reference" id="cite_ref-argumentative_1-0"><a href="#cite_note-argumentative-1">1</a></sup> has two meanings: first, it describes the use of valid <a class="mw-redirect" href="/wiki/Reasoning" title="Reasoning">reasoning</a> in some activity; second, it names the <a href="/wiki/Normative" title="Normative">normative</a> study of reasoning or a branch thereof.<sup class="reference" id="cite_ref-PopkinStroll1993_2-0"><a href="#cite_note-PopkinStroll1993-2">2</a></sup><sup class="reference" id="cite_ref-jacquette2002_3-0"><a href="#cite_note-jacquette2002-3">3</a></sup> In the latter sense, it features most prominently in the subjects of <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Computer_science" title="Computer science">computer science</a>.</p>
+http://en.wikipedia.org/wiki/Reasoning
+<p><b>Reason</b> is the capacity for <a href="/wiki/Consciousness" title="Consciousness">consciously</a> making sense of things, applying <a href="/wiki/Logic" title="Logic">logic</a>, for establishing and verifying <a href="/wiki/Fact" title="Fact">facts</a>, and changing or justifying practices, institutions, and <a href="/wiki/Belief" title="Belief">beliefs</a> based on new or existing information.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> It is closely associated with such characteristically <a href="/wiki/Human" title="Human">human</a> activities as <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, <a href="/wiki/Science" title="Science">science</a>, <a href="/wiki/Language" title="Language">language</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Art" title="Art">art</a>, and is normally considered to be a definitive characteristic of <a href="/wiki/Human_nature" title="Human nature">human nature</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">2</a></sup> The concept of reason is sometimes referred to as <a href="/wiki/Rationality" title="Rationality">rationality</a> and sometimes as <b>discursive reason</b>, in opposition to <a href="/wiki/Intuition_(psychology)" title="Intuition">intuitive reason</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">3</a></sup></p>
+http://en.wikipedia.org/wiki/Consciousness
+<p><b>Consciousness</b> is the <a href="/wiki/Quality_(philosophy)" title="Quality">quality</a> or state of being aware of an external object or something within oneself.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup><sup class="reference" id="cite_ref-van_Gulick2004_2-0"><a href="#cite_note-van_Gulick2004-2">2</a></sup> It has been defined as: <a href="/wiki/Sentience" title="Sentience">sentience</a>, <a href="/wiki/Awareness" title="Awareness">awareness</a>, <a href="/wiki/Subjectivity" title="Subjectivity">subjectivity</a>, the ability to <a href="/wiki/Experience" title="Experience">experience</a> or to <a href="/wiki/Feeling" title="Feeling">feel</a>, wakefulness, having a sense of <a href="/wiki/Self" title="Self">selfhood</a>, and the executive control system of the mind.<sup class="reference" id="cite_ref-Farthing1992Psychology_3-0"><a href="#cite_note-Farthing1992Psychology-3">3</a></sup> Despite the difficulty in definition, many philosophers believe that there is a broadly shared underlying intuition about what consciousness is.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">4</a></sup> As <a href="/wiki/Max_Velmans" title="Max Velmans">Max Velmans</a> and Susan Schneider wrote in : "Anything that we are aware of at a given moment forms part of our consciousness, making conscious experience at once the most familiar and most mysterious aspect of our lives."<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">5</a></sup></p>
+http://en.wikipedia.org/wiki/Quality_(philosophy)
+<p>A <b>quality</b><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup> is an attribute or a <a href="/wiki/Property_(philosophy)" title="Property">property</a>. Attributes are ascribable, by a subject, whereas properties are possessible.<sup class="reference" id="cite_ref-Cargile.2C_1995_2-0"><a href="#cite_note-Cargile.2C_1995-2">2</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[]</sup> In contemporary <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> the idea of qualities, and especially how to distinguish certain kinds of qualities from one another, remains controversial.<sup class="reference" id="cite_ref-Cargile.2C_1995_2-1"><a href="#cite_note-Cargile.2C_1995-2">2</a></sup></p>
+http://en.wikipedia.org/wiki/Property_(philosophy)
+<p>In <a href="/wiki/Modern_philosophy" title="Modern philosophy">modern philosophy</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Logic" title="Logic">logic</a>, a <b>property</b> is an attribute of an <a href="/wiki/Object_(philosophy)" title="Object">object</a>; a red object is said to have the property of redness. The property may be considered a form of object in its own right, able to possess other properties. A property however differs from individual objects in that it may be instantiated, and often in more than one thing. It differs from the logical/mathematical concept of <a href="/wiki/Class_(set_theory)" title="Class">class</a> by not having any concept of <a href="/wiki/Extensionality" title="Extensionality">extensionality</a>, and from the philosophical concept of <a href="/wiki/Class_(philosophy)" title="Class">class</a> in that a property is considered to be distinct from the objects which possess it. Understanding how different individual entities can in some sense have some of the same properties is the basis of the <a href="/wiki/Problem_of_universals" title="Problem of universals">problem of universals</a>. The terms <b>attribute</b> and <b>quality</b> have similar meanings.</p>
+http://en.wikipedia.org/wiki/Modern_philosophy
+<p><b>Modern philosophy</b> is a category of <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> that originated in <a href="/wiki/Western_Europe" title="Western Europe">Western Europe</a> in the 17th century, and is now common worldwide. It is not a specific doctrine or school, although there are certain assumptions common to much of it, which helps to distinguish it from earlier <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">1</a></sup></p>
+http://en.wikipedia.org/wiki/Philosophy
+24 hops
+Test 5
+http://en.wikipedia.org/wiki/Global_Underground
+<p><b>Global Underground</b> is a music label founded in 1996 by <a href="/wiki/Andy_Horsfield" title="Andy Horsfield">Andy Horsfield</a> and James Todd. The label symbolized the international explosion of dance music during the 1990s and first manifesto for high-end DJs such as <a href="/wiki/Sasha_(DJ)" title="Sasha">Sasha</a>, <a href="/wiki/Paul_Oakenfold" title="Paul Oakenfold">Paul Oakenfold</a>, <a href="/wiki/John_Digweed" title="John Digweed">John Digweed</a>, <a href="/wiki/Danny_Tenaglia" title="Danny Tenaglia">Danny Tenaglia</a>, <a href="/wiki/Nick_Warren" title="Nick Warren">Nick Warren</a>, <a href="/wiki/Dave_Seaman" title="Dave Seaman">Dave Seaman</a>, <a href="/wiki/Darren_Emerson" title="Darren Emerson">Darren Emerson</a>, and <a href="/wiki/James_Lavelle" title="James Lavelle">James Lavelle</a>.</p>
+http://en.wikipedia.org/wiki/Andy_Horsfield
+<p><b>Andy Horsfield</b> is a <a href="/wiki/Great_Britain" title="Great Britain">British</a> entrepreneur best known for founding <a href="/wiki/Global_Underground" title="Global Underground">Global Underground</a> in 1996. In 2007 the record label was partially acquired by <a href="/wiki/Ministry_of_Sound" title="Ministry of Sound">Ministry of Sound</a> and Horsfield remained as head of the company. In 2008 he partnered with <a class="mw-redirect" href="/wiki/James_Palumbo" title="James Palumbo">James Palumbo</a> to start MOSHK America. Horsfield became the president of Ministry of Sound and <a href="/wiki/Hed_Kandi" title="Hed Kandi">Hed Kandi</a> for
