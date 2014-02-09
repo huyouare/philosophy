@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 MAX_HOPS = 100
 count = 0
 urlRandom = 'http://en.wikipedia.org/wiki/Special:Random'
+
 if len(sys.argv)==1:
   print("Using http://en.wikipedia.org/wiki/Special:Random")
   url = urlRandom
@@ -14,10 +15,11 @@ else:
 
 r = requests.get(url)
 soup = BeautifulSoup(r.text)
-print(r.url)
+print(r.url) # Print current url (after redirection)
 
 while soup.find(id='firstHeading').span.text != 'Philosophy':
   if count==MAX_HOPS:
+    print("MAX_HOPS reached.")
     break
 
   content = soup.find(id='mw-content-text')
@@ -59,4 +61,4 @@ while soup.find(id='firstHeading').span.text != 'Philosophy':
 
   count = count+1
 
-print(count)
+print(str(count) + " hops")
