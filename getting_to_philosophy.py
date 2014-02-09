@@ -27,7 +27,7 @@ def find_philosophy(url):
     paragraphText = re.sub(r' \(.*?\)', '', paragraphText) # Remove leftover parenthesized text
     
     # For debugging:
-    print(paragraphText) 
+    #print(paragraphText) 
 
     reParagraph = BeautifulSoup(paragraphText) # back into bs4 object to find links
     firstLink = reParagraph.find(href = re.compile('^/wiki/')) # links that start with /wiki/ only
@@ -58,7 +58,7 @@ def find_philosophy(url):
         firstLink = reParagraph.find(href = re.compile('^/wiki/'))
 
       # For debugging:
-      print(paragraphText) 
+      #print(paragraphText) 
 
     url = 'http://en.wikipedia.org' + firstLink.get('href')
     print(url)
