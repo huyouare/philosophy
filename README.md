@@ -13,24 +13,24 @@ Following the chain consists of:
 ### Notes
 * Currently defines main text as non-italicized, non-parenthesized text that does not appear inside a table.
 * Pages with tables alone will not lead to another page
-* By default, <code>getting_to_philosophy</code> will use a random Wiki page, generated from http://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy
-* My last tests showed an average of 19 hops, ignoring those that did not have valid links and those that had infinite loops.
+* By default, getting_to_philosophy.py will use a random Wiki page, generated from http://en.wikipedia.org/wiki/Special:Random
+* My last test showed an average of 19 hops, ignoring those that did not have valid links and those that had infinite loops.
 
 ### Getting Started
-Install dependencies:  
+######Install dependencies:  
 `pip install -r requirements.txt`
 
-#### Using the script:  
+###### Using the script:  
 `python getting_to_philosophy.py STARTING_LINK`
 
-#### Example:  
+###### Example:  
 `python getting_to_philosophy.py http://en.wikipedia.org/wiki/Property_(philosophy)`
 
-#### Output:  
+###### Output:  
 `http://en.wikipedia.org/wiki/Property_(philosophy)
 http://en.wikipedia.org/wiki/Modern_philosophy
 http://en.wikipedia.org/wiki/Philosophy
 2 hops`
 
-#### Testing (100 random trials):  
+###### Testing (100 random trials):  
 `python test.py`
