@@ -14,7 +14,7 @@ def find_philosophy(url):
   while soup.find(id='firstHeading').span.text != 'Philosophy':
     if count==MAX_HOPS:
       print("MAX_HOPS reached.")
-      break
+      return None
 
     content = soup.find(id='mw-content-text')
 
@@ -38,6 +38,11 @@ def find_philosophy(url):
 
       else:  
         paragraph = paragraph.find_next_sibling("p")
+        
+        if(paragraph is None): # Case of no links available
+          print("Wikipedia not reachable.")
+          return None
+
         for s in paragraph.find_all("span"):
           s.replace_with("")
         paragraphText = str(paragraph)
