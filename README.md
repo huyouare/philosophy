@@ -18,13 +18,13 @@ Following the chain consists of:
 Install dependencies:
 `pip install -r requirements.txt`
 
-Using the script:
-'python getting_to_philosophy.py STARTING_LINK'
+Using the script:  
+`python getting_to_philosophy.py STARTING_LINK`
 
-Example:
+Example:  
 `python getting_to_philosophy.py http://en.wikipedia.org/wiki/Property_(philosophy)`
 
-Output:
+Output:  
 `http://en.wikipedia.org/wiki/Property_(philosophy)
 http://en.wikipedia.org/wiki/Modern_philosophy
 http://en.wikipedia.org/wiki/Philosophy
