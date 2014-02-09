@@ -23,24 +23,18 @@ while soup.find(id='firstHeading').span.text != 'Philosophy':
     break
 
   content = soup.find(id='mw-content-text')
-  #contect = content.find(class_="dablink").replace_with('') # 'class' is reserved word
-  
-  # Case of disambiguation or other page
-  # firstLink = content.parent.ul.find(href = re.compile('/wiki/'))
-  
-  # Rather than find which page is of reference, we choose the 
-  # first link in the list text
+
   paragraph = soup.select('div#mw-content-text > p')[0] # Only DIRECT child
   for s in paragraph.find_all("span"):
     s.replace_with("")
   paragraphText = str(paragraph)
-  # print(paragraphText) # For debugging
   paragraphText = re.sub(r' \(.*?\)', '', paragraphText)
-
+  # print(paragraphText) # For debugging
   reParagraph = BeautifulSoup(paragraphText)
   firstLink = reParagraph.find(href = re.compile('/wiki/'))
 
   while firstLink == None:
+    # case of disambiguation: use first wiki link in list
     if '(disambiguation)' in url:
       firstLink = content.ul.find(href = re.compile('/wiki/'))
       print(firstLink)
