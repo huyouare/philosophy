@@ -19,13 +19,13 @@ def find_philosophy(url):
     content = soup.find(id='mw-content-text')
 
     paragraph = soup.select('div#mw-content-text > p')[0] # Only DIRECT child
-    for s in paragraph.find_all(['span', 'small']): # remove spans with language, pronounciation
+    for s in paragraph.find_all(['span', 'small']): # remove spans and smalls with language, pronounciation
       s.replace_with("")
     paragraphText = str(paragraph)
     paragraphText = re.sub(r' \(.*?\)', '', paragraphText) # Remove leftover parenthesized text
     
     # For debugging:
-    print(paragraphText) 
+    # print(paragraphText) 
 
     reParagraph = BeautifulSoup(paragraphText) # back into bs4 object to find links
     firstLink = reParagraph.find(href = re.compile('/wiki/'))
@@ -34,14 +34,16 @@ def find_philosophy(url):
       # case of disambiguation: use first wiki link in list
       if '(disambiguation)' in url or '(surname)' in url:
         firstLink = content.ul.find(href = re.compile('/wiki/'))
-        print(firstLink)
 
       else:  
         paragraph = paragraph.find_next_sibling("p")
         
-        if(paragraph is None): # Case of no links available
-          print("Wikipedia not reachable.")
-          return None
+        if(paragraph is None): # Catch-case
+          firstLink = content.ul.find(href = re.compile('/wiki/')) # Disambiguation-type page
+          if(firstLink is None): # No links available
+            print("Wikipedia not reachable.")
+            return None
+          continue
 
         for s in paragraph.find_all("span"):
           s.replace_with("")
