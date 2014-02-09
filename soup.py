@@ -23,10 +23,8 @@ while soup.find(id='firstHeading').span.text != 'Philosophy':
   # Rather than find which page is of reference, we choose the 
   # first link in the list text
   paragraph = soup.select('div#mw-content-text > p')[0] # Only DIRECT child
-  print(paragraph)
   for s in paragraph.find_all("span"):
     s.replace_with("")
-  print(paragraph)
   paragraphText = str(paragraph)
   print(paragraphText)
   paragraphText = re.sub(r' \(.*?\)', '', paragraphText)
@@ -34,8 +32,6 @@ while soup.find(id='firstHeading').span.text != 'Philosophy':
 
   reParagraph = BeautifulSoup(paragraphText)
   firstLink = reParagraph.find(href = re.compile('/wiki/'))
-
-
 
   while firstLink == None:
     if '(disambiguation)' in url:
@@ -45,8 +41,10 @@ while soup.find(id='firstHeading').span.text != 'Philosophy':
     else:  
       #print(firstLink)
       paragraph = paragraph.find_next_sibling("p")
+      for s in paragraph.find_all("span"):
+        s.replace_with("")
       paragraphText = str(paragraph)
-      paragraphText = re.sub(r' \(.*?\) ', '', paragraphText)
+      paragraphText = re.sub(r' \(.*?\)', '', paragraphText)
       reParagraph = BeautifulSoup(paragraphText)
       firstLink = reParagraph.find(href = re.compile('/wiki/'))
 
