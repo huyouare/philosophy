@@ -1,11 +1,17 @@
+#!/usr/bin/python
+import sys
 import requests, re
 from bs4 import BeautifulSoup
 
 MAX_HOPS = 100
 count = 0
 urlRandom = 'http://en.wikipedia.org/wiki/Special:Random'
-#url = urlRandom
-url = 'http://en.wikipedia.org/wiki/Mauritius'
+if len(sys.argv)==1:
+  print("Using http://en.wikipedia.org/wiki/Special:Random")
+  url = urlRandom
+else:
+  url = sys.argv[1]
+
 r = requests.get(url)
 soup = BeautifulSoup(r.text)
 print(r.url)
@@ -26,9 +32,8 @@ while soup.find(id='firstHeading').span.text != 'Philosophy':
   for s in paragraph.find_all("span"):
     s.replace_with("")
   paragraphText = str(paragraph)
-  print(paragraphText)
+  # print(paragraphText) # For debugging
   paragraphText = re.sub(r' \(.*?\)', '', paragraphText)
-  #paragraphText = re.sub(r' \(.*?\)', '', paragraphText)
 
   reParagraph = BeautifulSoup(paragraphText)
   firstLink = reParagraph.find(href = re.compile('/wiki/'))
@@ -39,7 +44,6 @@ while soup.find(id='firstHeading').span.text != 'Philosophy':
       print(firstLink)
 
     else:  
-      #print(firstLink)
       paragraph = paragraph.find_next_sibling("p")
       for s in paragraph.find_all("span"):
         s.replace_with("")
