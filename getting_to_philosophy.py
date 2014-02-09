@@ -41,8 +41,7 @@ def find_philosophy(url):
         paragraph = paragraph.find_next_sibling("p")
         
         if(paragraph is None): # Catch-case
-          print(content.ul)
-          print(content.ul is None)
+        
           if(content.ul is not None):
             firstLink = content.ul.find(href = re.compile('^/wiki/')) # Disambiguation-type page
           if(firstLink is None): # No links available
