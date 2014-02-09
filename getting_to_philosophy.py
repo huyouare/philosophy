@@ -32,7 +32,7 @@ def find_philosophy(url):
 
     while firstLink == None:
       # case of disambiguation: use first wiki link in list
-      if '(disambiguation)' in url:
+      if '(disambiguation)' in url or '(surname)' in url:
         firstLink = content.ul.find(href = re.compile('/wiki/'))
         print(firstLink)
 
